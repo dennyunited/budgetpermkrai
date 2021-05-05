@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+<thead>
+<tr><th>№   п/п</th><th>Наименование муниципальных образований</th><th>2014 год</th><th>2015 год</th></tr>
+</thead>
+<tbody>
+<tr><td class="number">1</td><td>г. Пермь                  </td><td class="number">253 478,50</td><td class="number">253 825,60</td></tr>
+<tr><td class="number"></td><td>Всего Пермский край       </td><td class="number">253 478,50</td><td class="number">253 825,60</td></tr>
+</tbody>                                                                                                                      
+</table>                                                                                                                       

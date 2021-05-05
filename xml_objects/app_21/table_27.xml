@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<table class="data_table" style="width: 900px">
+<thead><tr><th>№ 
+п/п</th><th>Наименование муниципальных образований </th><th>2015 год</th><th>2016 год</th></tr></thead>
+<tbody><tr><td>1</td><td>г.Пермь</td><td class="number">9 854,3</td><td class="number">0</td></tr>
+<tr><td>2</td><td>г.Березники</td><td class="number">0</td><td class="number">2 212,7</td></tr>
+<tr><td>3</td><td>р-н Гремячинский</td><td class="number">764,8</td><td class="number">0</td></tr>
+<tr><td>4</td><td>г.Губаха</td><td class="number">1 042,5</td><td class="number">583,8</td></tr>
+<tr><td>5</td><td>р-н Краснокамский</td><td class="number">1 074,3</td><td class="number">0</td></tr>
+<tr><td>6</td><td>г.Кунгур</td><td class="number">0</td><td class="number">1 159,5</td></tr>
+<tr><td>7</td><td>г.Лысьва</td><td class="number">859,3</td><td class="number">1 093,6</td></tr>
+<tr><td>8</td><td>р-н Чайковский</td><td class="number">1 127,7</td><td class="number">0</td></tr>
+<tr><td>9</td><td>р-н Чусовской</td><td class="number">859,3</td><td class="number">859,3</td></tr>
+<tr><td>10</td><td>р-н Верещагинский</td><td class="number">0</td><td class="number">4 346,4</td></tr>
+<tr><td>11</td><td>р-н Горнозаводский</td><td class="number">816,7</td><td class="number">0</td></tr>
+<tr><td>12</td><td>р-н Еловский</td><td class="number">781,8</td><td class="number">0</td></tr>
+<tr><td>13</td><td>р-н Красновишерский</td><td class="number">0</td><td class="number">1 057,1</td></tr>
+<tr><td>14</td><td>р-н Нытвенский</td><td class="number">0</td><td class="number">2 467,4</td></tr>
+<tr><td>15</td><td>р-н Ординский</td><td class="number">0</td><td class="number">825,0</td></tr>
+<tr><td>16</td><td>р-н Соликамский</td><td class="number">0</td><td class="number">2 402,4</td></tr>
+<tr><td>17</td><td>р-н Чердынский</td><td class="number">0</td><td class="number">766,4</td></tr>
+<tr><td>18</td><td>р-н Чернушинский</td><td class="number">0</td><td class="number">1 238,5</td></tr>
+<tr><td>19</td><td>р-н Косинский</td><td class="number">1 976,9</td><td class="number">0</td></tr>
+<tr><td></td><td>Нераспределенный остаток</td><td class="number">133,5</td><td class="number">278,9</td></tr>
+<tr><td></td><td>Всего Пермский край</td><td class="number">19 291,1</td><td class="number">19 291,0</td></tr></tbody>
+
+</table>

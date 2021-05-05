@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+    <thead>
+        <tr>
+            <th>N п/п</th>
+            <th>Перечень внутренних заимствований</th>
+            <th>2014 год</th>
+            <th>2015 год</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td> N п/п</td><td> Перечень внутренних заимствований </td><td class="number"> 2014 год </td><td class="number"> 2015 год 																																												</td></tr>
+        <tr><td>1</td><td>Бюджетные кредиты, привлеченные в бюджет Пермского края от других бюджетов бюджетной системы Российской Федерации </td><td class="number"></td><td class="number"> </td></tr>
+        <tr><td></td><td>задолженность на начало финансового года </td><td class="number">434 591,3</td><td class="number">434 591,3 </td></tr>
+        <tr><td></td><td>привлечение средств в финансовом году </td><td class="number">0,0</td><td class="number">0,0 </td></tr>
+        <tr><td></td><td>погашение основной суммы задолженности в финансовом году </td><td class="number">0,0</td><td class="number">247 476,0 </td></tr>
+        <tr><td></td><td>задолженность на 01.01.2015 </td><td class="number">434 591,3</td><td class="number"> * </td></tr>
+        <tr><td></td><td>задолженность на 01.01.2016 </td><td class="number"> * </td><td class="number">187 115,3 </td></tr>
+        <tr><td></td><td>в том числе: </td><td class="number"></td><td class="number"> </td></tr>
+        <tr><td>01.янв</td><td>Бюджетные кредиты, предоставленные для строительства, реконструкции, капитального ремонта, ремонта и содержания автомобильных дорог общего пользования (за исключением автомобильных дорог федерального значения) </td><td class="number"></td><td class="number"> </td></tr>
+        <tr><td></td><td>задолженность на начало финансового года </td><td class="number">247 476,0</td><td class="number">247 476,0 </td></tr>
+        <tr><td></td><td>привлечение средств в финансовом году </td><td class="number">0,0</td><td class="number">0,0 </td></tr>
+        <tr><td></td><td>погашение основной суммы задолженности в финансовом году </td><td class="number">0,0</td><td class="number">247 476,0 </td></tr>
+        <tr><td></td><td>задолженность на 01.01.2015 </td><td class="number">247 476,0</td><td class="number"> * </td></tr>
+        <tr><td></td><td>задолженность на 01.01.2016 </td><td class="number"> * </td><td class="number">0,0 </td></tr>
+        <tr><td>01.фев</td><td>Реструктурированная задолженность по бюджетным кредитам, предоставленным для реализации мероприятий по поддержке монопрофильных муниципальных образований </td><td class="number"></td><td class="number"> </td></tr>
+        <tr><td></td><td>задолженность на начало финансового года </td><td class="number">187 115,3</td><td class="number">187 115,3 </td></tr>
+        <tr><td></td><td>привлечение средств в финансовом году </td><td class="number">0,0</td><td class="number">0,0 </td></tr>
+        <tr><td></td><td>погашение основной суммы задолженности в финансовом году </td><td class="number">0,0</td><td class="number">0,0 </td></tr>
+        <tr><td></td><td>задолженность на 01.01.2015 </td><td class="number">187 115,3</td><td class="number"> * </td></tr>
+        <tr><td></td><td>задолженность на 01.01.2016 </td><td class="number"> * </td><td class="number">187 115,3 </td></tr>
+        <tr><td>2</td><td>Кредиты кредитных организаций в валюте Российской Федерации </td><td class="number"></td><td class="number"> </td></tr>
+        <tr><td></td><td>задолженность на начало финансового года </td><td class="number">11 221 581,2</td><td class="number">23 035 455,4 </td></tr>
+        <tr><td></td><td>привлечение средств в финансовом году </td><td class="number">23 035 455,4</td><td class="number">36 121 594,5 </td></tr>
+        <tr><td></td><td>погашение основной суммы задолженности в финансовом году </td><td class="number">11 221 581,2</td><td class="number">23 035 455,4 </td></tr>
+        <tr><td></td><td>задолженность на 01.01.2015 </td><td class="number">23 035 455,4</td><td class="number"> * </td></tr>
+        <tr><td></td><td>задолженность на 01.01.2016 </td><td class="number"> * </td><td class="number">36 121 594,5 </td></tr>
+    </tbody>
+</table>

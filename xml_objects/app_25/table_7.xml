@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+    <thead>
+        <tr>
+            <th>N п/п</th>
+            <th class="number">Наименование муниципальных образований</th>
+            <th class="number"> Сумма, тыс  рублей</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>г. Березники </td>
+            <td class="number">19 511,0</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>р-н Добрянский </td>
+            <td class="number">2 135,3</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>р-н Кизеловский </td>
+            <td class="number">1 334,7</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>г. Соликамск </td>
+            <td class="number">3 335,3</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>р-н Чайковский </td>
+            <td class="number">4 201,7</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>р-н Чусовской </td>
+            <td class="number">2 773,5</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>р-н Верещагинский </td>
+            <td class="number">3 965,2</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>р-н Красновишерский </td>
+            <td class="number">1 170,5</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Всего Пермский край </td>
+            <td class="number">38 427,2</td>
+        </tr>
+    </tbody>
+</table>

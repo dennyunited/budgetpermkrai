@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+    <thead>
+        <tr>
+            <th>N п/п</th>
+            <th class="number">Наименование муниципальных образований</th>
+            <th class="number"> Сумма, тыс  рублей</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>г. Пермь </td>
+            <td class="number">27 720,5			</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>р-н Чайковский </td>
+            <td class="number">1 069,2     </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>р-н Чердынский </td>
+            <td class="number">2 381,4     </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Всего Пермский край </td>
+            <td class="number">31 171,1</td>
+        </tr>
+    </tbody>
+</table>

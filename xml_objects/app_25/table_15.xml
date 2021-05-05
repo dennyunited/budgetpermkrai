@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+    <thead>
+        <tr>
+            <th>N п/п</th>
+            <th class="number">Наименование муниципальных образований</th>
+            <th class="number"> Сумма, тыс  рублей</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>г. Пермь </td>
+            <td class="number">31,2										</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Александровский муниципальный район, всего</td>
+            <td class="number">31,4     </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Александровский </td>
+            <td class="number">15,7                            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Александровское городское поселение </td>
+            <td class="number">15,7            </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>г. Березники </td>
+            <td class="number">28,1                                  </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Гремячинский муниципальный район, всего </td>
+            <td class="number">31,4       </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Гремячинский </td>
+            <td class="number">15,7                               </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Гремячинское городское поселение </td>
+            <td class="number">15,7               </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>г. Губаха </td>
+            <td class="number">21,9                                     </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Добрянский муниципальный район, всего </td>
+            <td class="number">50,2         </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Добрянский </td>
+            <td class="number">15,7                                 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Добрянское городское поселение </td>
+            <td class="number">18,8                 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Полазненское городское поселение </td>
+            <td class="number">15,7               </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Кизеловский муниципальный район, всего </td>
+            <td class="number">31,4        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Кизеловский </td>
+            <td class="number">15,7                                </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Кизеловское городское поселение </td>
+            <td class="number">15,7                </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Краснокамский муниципальный район, всего </td>
+            <td class="number">37,6      </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Краснокамский </td>
+            <td class="number">15,7                              </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Краснокамское городское поселение </td>
+            <td class="number">21,9              </td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>г. Кунгур </td>
+            <td class="number">21,9                                     </td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>г. Лысьва </td>
+            <td class="number">21,9                                    </td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>г. Соликамск </td>
+            <td class="number">25,0                                 </td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Чайковский муниципальный район, всего </td>
+            <td class="number">40,7        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Чайковский </td>
+            <td class="number">18,8                                 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Чайковское городское поселение </td>
+            <td class="number">21,9                 </td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Чусовской муниципальный район, всего </td>
+            <td class="number">37,6         </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Чусовской </td>
+            <td class="number">15,7                                  </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Чусовское городское поселение </td>
+            <td class="number">21,9                  </td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Бардымский муниципальный район, всего </td>
+            <td class="number">31,4        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Бардымский </td>
+            <td class="number">15,7                                 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Бардымское сельское поселение </td>
+            <td class="number">15,7                  </td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Березовский муниципальный район, всего </td>
+            <td class="number">15,7       </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Березовский </td>
+            <td class="number">15,7                                </td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Большесосновский муниципальный район, всего </td>
+            <td class="number">15,7  </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Большесосновский </td>
+            <td class="number">15,7                           </td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>Верещагинский муниципальный район, всего </td>
+            <td class="number">34,5     </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Верещагинский </td>
+            <td class="number">15,7                              </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Верещагинское городское поселение </td>
+            <td class="number">18,8              </td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>Горнозаводский муниципальный район, всего </td>
+            <td class="number">78,5    </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Горнозаводский </td>
+            <td class="number">15,7                             </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Горнозаводское городское поселение </td>
+            <td class="number">15,7             </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Бисерское сельское поселение </td>
+            <td class="number">15,7                   </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Пашийское сельское поселение </td>
+            <td class="number">15,7                   </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Медведкинское сельское поселение </td>
+            <td class="number">15,7               </td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>Еловский муниципальный район, всего </td>
+            <td class="number">15,7          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Еловский </td>
+            <td class="number">15,7                                   </td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>Ильинский муниципальный район, всего </td>
+            <td class="number">31,4         </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Ильинский </td>
+            <td class="number">15,7                                  </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ильинское сельское поселение </td>
+            <td class="number">15,7                   </td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>Карагайский муниципальный район, всего </td>
+            <td class="number">18,8       </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Карагайский </td>
+            <td class="number">18,8                                </td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>Кишертский муниципальный район, всего </td>
+            <td class="number">15,7        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Кишертский </td>
+            <td class="number">15,7                                 </td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>Куединский муниципальный район, всего </td>
+            <td class="number">18,8        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Куединский </td>
+            <td class="number">18,8                                 </td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>Кунгурский муниципальный район, всего </td>
+            <td class="number">21,9        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Кунгурский </td>
+            <td class="number">21,9                                 </td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>Красновишерский муниципальный район, всего</td>
+            <td class="number">32,8    </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Красновишерский </td>
+            <td class="number">16,4                            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Красновишерское городское поселение </td>
+            <td class="number">16,4            </td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>Нытвенский муниципальный район, всего </td>
+            <td class="number">34,5        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Нытвенский </td>
+            <td class="number">18,8                                 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Нытвенское городское поселение </td>
+            <td class="number">15,7                 </td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>Октябрьский муниципальный район, всего </td>
+            <td class="number">31,4       </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Октябрьский </td>
+            <td class="number">15,7                                </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Октябрьское городское поселение </td>
+            <td class="number">15,7                </td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>Осинский муниципальный район, всего </td>
+            <td class="number">34,5          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Осинский </td>
+            <td class="number">15,7                                   </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Осинское городское поселение </td>
+            <td class="number">18,8                   </td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>Ординский муниципальный район, всего </td>
+            <td class="number">31,4         </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Ординский </td>
+            <td class="number">15,7                                  </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ординское сельское поселение </td>
+            <td class="number">15,7                   </td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>Оханский муниципальный район, всего </td>
+            <td class="number">31,4          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Оханский </td>
+            <td class="number">15,7                                   </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Оханское городское поселение </td>
+            <td class="number">15,7                   </td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>Очерский муниципальный район, всего </td>
+            <td class="number">31,4          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Очерский </td>
+            <td class="number">15,7                                   </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Очерское городское поселение </td>
+            <td class="number">15,7                   </td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>Пермский муниципальный район, всего </td>
+            <td class="number">25,0          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Пермский </td>
+            <td class="number">25,0                                   </td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>Сивинский муниципальный район, всего </td>
+            <td class="number">15,7         </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Сивинский </td>
+            <td class="number">15,7                                  </td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>Соликамский муниципальный район, всего </td>
+            <td class="number">15,7       </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Соликамский </td>
+            <td class="number">15,7                                </td>
+        </tr>
+        <tr>
+            <td>35</td>
+            <td>Суксунский муниципальный район, всего </td>
+            <td class="number">31,4        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Суксунский </td>
+            <td class="number">15,7                                 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Суксунское городское поселение </td>
+            <td class="number">15,7                 </td>
+        </tr>
+        <tr>
+            <td>36</td>
+            <td>Усольский муниципальный район, всего </td>
+            <td class="number">31,4         </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Усольский </td>
+            <td class="number">15,7                                  </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Усольское городское поселение </td>
+            <td class="number">15,7                  </td>
+        </tr>
+        <tr>
+            <td>37</td>
+            <td>Уинский муниципальный район, всего </td>
+            <td class="number">15,7           </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Уинский </td>
+            <td class="number">15,7                                    </td>
+        </tr>
+        <tr>
+            <td>38</td>
+            <td>Частинский муниципальный район, всего </td>
+            <td class="number">15,7        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Частинский </td>
+            <td class="number">15,7                                 </td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>Чердынский муниципальный район, всего </td>
+            <td class="number">32,8        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Чердынский </td>
+            <td class="number">16,4                                 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Чердынское городское поселение </td>
+            <td class="number">16,4                 </td>
+        </tr>
+        <tr>
+            <td>40</td>
+            <td>Чернушинский муниципальный район, всего </td>
+            <td class="number">34,5      </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Чернушинский </td>
+            <td class="number">15,7                               </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Чернушинское городское поселение </td>
+            <td class="number">18,8               </td>
+        </tr>
+        <tr>
+            <td>41</td>
+            <td>г. Кудымкар </td>
+            <td class="number">21,9                                  </td>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>Гайнский муниципальный район, всего </td>
+            <td class="number">23,1          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Гайнский </td>
+            <td class="number">23,1                                   </td>
+        </tr>
+        <tr>
+            <td>43</td>
+            <td>Косинский муниципальный район, всего </td>
+            <td class="number">23,1         </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Косинский </td>
+            <td class="number">23,1                                  </td>
+        </tr>
+        <tr>
+            <td>44</td>
+            <td>Кочевский муниципальный район, всего </td>
+            <td class="number">23,1         </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Кочевский </td>
+            <td class="number">23,1                                  </td>
+        </tr>
+        <tr>
+            <td>45</td>
+            <td>Кудымкарский муниципальный район, всего </td>
+            <td class="number">18,8      </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Кудымкарский </td>
+            <td class="number">18,8                               </td>
+        </tr>
+        <tr>
+            <td>46</td>
+            <td>Юрлинский муниципальный район, всего </td>
+            <td class="number">15,7         </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Юрлинский </td>
+            <td class="number">15,7                                  </td>
+        </tr>
+        <tr>
+            <td>47</td>
+            <td>Юсьвинский муниципальный район, всего </td>
+            <td class="number">15,7        </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>р-н Юсьвинский </td>
+            <td class="number">15,7                                 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Всего Пермский край </td>
+            <td class="number">1 295,1                         </td>
+        </tr>
+    </tbody>
+</table>

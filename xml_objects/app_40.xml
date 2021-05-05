@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+	<thead>
+		<tr>
+			<th style="width: 30px;">N п/п</th>
+			<th>Наименование муниципальных образований</th>
+			<th style="width: 200px;">Сумма, тыс  рублей</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td>р-н Гайнский</td>
+			<td class="number">9 200,0</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Всего Пермский край</td>
+			<td class="number">9 200,0</td>
+		</tr>	
+	</tbody>
+</table>

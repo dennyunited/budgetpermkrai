@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+<thead><tr><th>№ п/п</th><th>Наименование муниципальных образований</th><th>Сумма, тыс.рублей</th></tr></thead>
+ <tbody><tr><td>1</td><td>г.Пермь</td><td class="number">7 253,8</td></tr>
+<tr><td>2</td><td>г.Губаха</td><td class="number">1 834,8</td></tr>
+<tr><td>3</td><td>р-н Добрянский</td><td class="number">1 040,1</td></tr>
+<tr><td>4</td><td>г.Соликамск</td><td class="number">1 024,7</td></tr>
+<tr><td>5</td><td>р-н Горнозаводский</td><td class="number">4 009,3</td></tr>
+<tr><td>6</td><td>р-н Чердынский</td><td class="number">2 001,0</td></tr>
+<tr><td>7</td><td>г.Кудымкар</td><td class="number">1 470,1</td></tr>
+<tr><td></td><td>Нераспределенный остаток</td><td class="number">657,2</td></tr>
+<tr><td></td><td>Всего Пермский край</td><td class="number">19 291,0</td></tr></tbody>
+</table> 

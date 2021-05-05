@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div class="custom_table">
+    <table>
+        <thead>
+            <tr>
+                <th style="vertical-align: middle">Код администратора</th>
+                <th style="vertical-align: middle">Код классификации источников внутреннего финансирования дефицита</th>
+                <th style="vertical-align: middle">Наименование администратора источника финансирования дефицитов бюджетов</th>
+                <th style="width: 100px; vertical-align: middle">2014 год</th>
+                <th style="width: 100px; vertical-align: middle">2015 год</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> 902 </td>
+                <td></td>
+                <td>Департамент финансов администрации города Перми</td>
+                <td class="rightcell">0</td>
+                <td class="rightcell">0</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>01 05 02 01 04 0000 510</td>
+                <td>Увеличение прочих остатков денежныхсредств бюджета городского округа</td>
+                <td class="rightcell">22 347 710,9</td>
+                <td class="rightcell">22 840 491,2</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>01 05 02 01 04 0000 610</td>
+                <td>Уменьшение прочих остатков денежныхсредств бюджета городского округа</td>
+                <td class="rightcell">22 347 710,9</td>
+                <td class="rightcell">22 840 491,2</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

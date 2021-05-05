@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+    <thead>
+        <tr>
+            <th>N п/п</th>
+            <th>Наименование муниципальных образований</th>
+            <th>2014 год</th>
+            <th>2015 год</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>г. Березники </td>
+            <td class="number">20 248,5</td>
+            <td class="number">21 965,9		</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>р-н Добрянский </td>
+            <td class="number">2 217,4</td>
+            <td class="number">2 407,2      </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>р-н Кизеловский </td>
+            <td class="number">1 388,3</td>
+            <td class="number">1 504,8     </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>г. Соликамск </td>
+            <td class="number">3 457,6</td>
+            <td class="number">3 760,5        </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>р-н Чайковский </td>
+            <td class="number">4 347,2</td>
+            <td class="number">4 716,5      </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>р-н Чусовской </td>
+            <td class="number">2 848,6</td>
+            <td class="number">3 110,5       </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>р-н Верещагинский </td>
+            <td class="number">4 125,3</td>
+            <td class="number">4 461,1   </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>р-н Красновишерский </td>
+            <td class="number">1 217,0</td>
+            <td class="number">1 321,0 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Всего Пермский край </td>
+            <td class="number">39 849,9</td>
+            <td class="number">43 247,5</td>
+        </tr>
+    </tbody>
+</table>

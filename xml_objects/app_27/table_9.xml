@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+<thead>
+<tr><th rowspan="2">№   п/п</th><th rowspan="2">Наименование муниципальных образований</th><th rowspan="2">Сумма, тыс  рублей</th><th colspan="2">В том числе</th></tr>
+<tr><th>на строительство и реконструкцию водохозяйственных сооружений</th><th>на капитальный ремонт водохозяйственных сооружений</th></tr>
+</thead>
+<tbody>
+<tr><td class="number">1</td><td>р-н Чайковский     </td><td class="number">324,20</td><td class="number">324,20</td><td class="number"></td> </tr>
+<tr><td class="number">2</td><td>р-н Верещагинский  </td><td class="number">6 021,60</td><td class="number">6 021,60</td><td class="number"></td> </tr>
+<tr><td class="number">3</td><td>р-н Карагайский    </td><td class="number">418,00</td><td class="number"></td><td class="number">418,00</td> </tr>
+<tr><td class="number">4</td><td>р-н Кунгурский     </td><td class="number">2 329,50</td><td class="number"></td><td class="number">2 329,50</td> </tr>
+<tr><td class="number">5</td><td>р-н Октябрьский    </td><td class="number">2 805,50</td><td class="number"></td><td class="number">2 805,50</td> </tr>
+<tr><td class="number">6</td><td>р-н Очерский       </td><td class="number">3 310,10</td><td class="number"></td><td class="number">3 310,10</td> </tr>
+<tr><td class="number">7</td><td>р-н Сивинский      </td><td class="number">1 552,30</td><td class="number"></td><td class="number">1 552,30</td> </tr>
+<tr><td class="number">8</td><td>р-н Чернушинский   </td><td class="number">1 667,20</td><td class="number"></td><td class="number">1 667,20</td> </tr>
+<tr><td class="number">9</td><td>г. Кудымкар        </td><td class="number">19,70</td><td class="number">19,70</td><td class="number"></td> </tr>
+<tr><td class="number">10</td><td>р-н Кудымкарский   </td><td class="number">420,00</td><td class="number"></td><td class="number">420,00</td> </tr>
+<tr><td class="number"></td><td>Всего Пермский край</td><td class="number">18 868,10</td><td class="number">6 365,50</td><td class="number">12 502,60</td> </tr>
+
+</tbody>
+</table>

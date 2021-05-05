@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+<thead><tr><th>№ п/п</th><th>Наименование муниципальных образований </th><th>2015 год</th><th>2016 год</th></tr></thead>
+ <tbody><tr><td>1</td><td>г.Пермь</td><td class="number">230 768,6</td><td class="number">230 470,6</td></tr>
+<tr><td>2</td><td>Александровский муниципальный район, всего</td><td class="number">6 881,4</td><td class="number">6 872,6</td></tr>
+<tr><td></td><td>Александровское городское поселение</td><td class="number">3 303,0</td><td class="number">3 298,8</td></tr>
+<tr><td></td><td>Всеволодо-Вильвенское городское поселение</td><td class="number">1 161,9</td><td class="number">1 160,4</td></tr>
+<tr><td></td><td>Яйвинское городское поселение</td><td class="number">2 346,6</td><td class="number">2 343,6</td></tr>
+<tr><td></td><td>Скопкортненское сельское поселение</td><td class="number">69,9</td><td class="number">69,8</td></tr>
+<tr><td>3</td><td>г.Березники</td><td class="number">34 816,2</td><td class="number">34 771,2</td></tr>
+<tr><td>4</td><td>Гремячинский муниципальный район, всего</td><td class="number">2 890,4</td><td class="number">2 886,7</td></tr>
+<tr><td></td><td>Гремячинское городское поселение</td><td class="number">2 248,1</td><td class="number">2 245,2</td></tr>
+<tr><td></td><td>Усьвинское сельское поселение</td><td class="number">105,2</td><td class="number">105,0</td></tr>
+<tr><td></td><td>Шумихинское сельское поселение</td><td class="number">254,0</td><td class="number">253,7</td></tr>
+<tr><td></td><td>Юбилейнинское сельское поселение</td><td class="number">283,1</td><td class="number">282,8</td></tr>
+<tr><td>5</td><td>г.Губаха</td><td class="number">8 461,8</td><td class="number">8 450,8</td></tr>
+<tr><td>6</td><td>Добрянский муниципальный район, всего</td><td class="number">12 940,8</td><td class="number">12 924,1</td></tr>
+<tr><td></td><td>Добрянское городское поселение</td><td class="number">7 725,0</td><td class="number">7 715,0</td></tr>
+<tr><td></td><td>Полазненское городское поселение</td><td class="number">2 974,1</td><td class="number">2 970,3</td></tr>
+<tr><td></td><td>Вильвенское сельское поселение</td><td class="number">334,4</td><td class="number">333,9</td></tr>
+<tr><td></td><td>Висимское сельское поселение</td><td class="number">295,4</td><td class="number">295,1</td></tr>
+<tr><td></td><td>Дивьинское сельское поселение</td><td class="number">473,9</td><td class="number">473,3</td></tr>
+<tr><td></td><td>Краснослудское сельское поселение</td><td class="number">495,7</td><td class="number">495,1</td></tr>
+<tr><td></td><td>Перемское сельское поселение</td><td class="number">363,7</td><td class="number">363,2</td></tr>
+<tr><td></td><td>Сенькинское сельское поселение</td><td class="number">278,6</td><td class="number">278,2</td></tr>
+<tr><td>7</td><td>Кизеловский муниципальный район, всего</td><td class="number">5 269,9</td><td class="number">5 263,0</td></tr>
+<tr><td></td><td>Кизеловское городское поселение</td><td class="number">4 070,3</td><td class="number">4 065,0</td></tr>
+<tr><td></td><td>Центрально-Коспашское сельское поселение</td><td class="number">323,7</td><td class="number">323,2</td></tr>
+<tr><td></td><td>Шахтинское сельское поселение</td><td class="number">234,7</td><td class="number">234,4</td></tr>
+<tr><td></td><td>Южно-Коспашское сельское поселение</td><td class="number">331,4</td><td class="number">331,0</td></tr>
+<tr><td></td><td>Северно-Коспашское сельское поселение</td><td class="number">309,8</td><td class="number">309,4</td></tr>
+<tr><td>8</td><td>Краснокамский муниципальный район, всего</td><td class="number">16 343,2</td><td class="number">16 322,0</td></tr>
+<tr><td></td><td>Краснокамское городское поселение</td><td class="number">12 104,2</td><td class="number">12 088,5</td></tr>
+<tr><td></td><td>Оверятское городское поселение</td><td class="number">2 229,0</td><td class="number">2 226,1</td></tr>
+<tr><td></td><td>Майское сельское поселение</td><td class="number">1 576,4</td><td class="number">1 574,4</td></tr>
+<tr><td></td><td>Стряпунинское сельское поселение</td><td class="number">433,6</td><td class="number">433,0</td></tr>
+<tr><td>9</td><td>г.Кунгур</td><td class="number">15 130,9</td><td class="number">15 111,3</td></tr>
+<tr><td>10</td><td>г.Лысьва</td><td class="number">17 342,3</td><td class="number">17 319,9</td></tr>
+<tr><td>11</td><td>г.Соликамск</td><td class="number">21 919,9</td><td class="number">21 891,6</td></tr>
+<tr><td>12</td><td>Чайковский муниципальный район, всего</td><td class="number">23 716,6</td><td class="number">23 686,1</td></tr>
+<tr><td></td><td>Чайковское городское поселение</td><td class="number">18 868,6</td><td class="number">18 844,3</td></tr>
+<tr><td></td><td>Альняшинское сельское поселение</td><td class="number">318,9</td><td class="number">318,5</td></tr>
+<tr><td></td><td>Большебукорское сельское поселение</td><td class="number">282,9</td><td class="number">282,6</td></tr>
+<tr><td></td><td>Ваньковское сельское поселение</td><td class="number">501,0</td><td class="number">500,3</td></tr>
+<tr><td></td><td>Зипуновское сельское поселение</td><td class="number">275,6</td><td class="number">275,3</td></tr>
+<tr><td></td><td>Марковское сельское поселение</td><td class="number">771,4</td><td class="number">770,4</td></tr>
+<tr><td></td><td>Ольховское сельское поселение</td><td class="number">782,5</td><td class="number">781,5</td></tr>
+<tr><td></td><td>Сосновское сельское поселение</td><td class="number">381,2</td><td class="number">380,7</td></tr>
+<tr><td></td><td>Уральское сельское поселение</td><td class="number">221,2</td><td class="number">220,9</td></tr>
+<tr><td></td><td>Фокинское сельское поселение</td><td class="number">1 313,3</td><td class="number">1 311,6</td></tr>
+<tr><td>13</td><td>Чусовской муниципальный район, всего</td><td class="number">15 909,0</td><td class="number">15 888,2</td></tr>
+<tr><td></td><td>Чусовское городское поселение</td><td class="number">11 519,9</td><td class="number">11 505,0</td></tr>
+<tr><td></td><td>Калинское сельское поселение</td><td class="number">585,9</td><td class="number">585,1</td></tr>
+<tr><td></td><td>Комарихинское сельское поселение</td><td class="number">581,1</td><td class="number">580,3</td></tr>
+<tr><td></td><td>Скальнинское сельское поселение</td><td class="number">1 612,8</td><td class="number">1 610,7</td></tr>
+<tr><td></td><td>Верхнечусовское Городковское сельское поселение</td><td class="number">534,0</td><td class="number">533,3</td></tr>
+<tr><td></td><td>Верхнекалинское сельское поселение</td><td class="number">541,5</td><td class="number">540,8</td></tr>
+<tr><td></td><td>Никифоровское сельское поселение</td><td class="number">260,4</td><td class="number">260,0</td></tr>
+<tr><td></td><td>Сельское сельское поселение</td><td class="number">273,4</td><td class="number">273,0</td></tr>
+<tr><td>14</td><td>Бардымский муниципальный район, всего</td><td class="number">5 746,8</td><td class="number">5 739,3</td></tr>
+<tr><td></td><td>Бардымское сельское поселение</td><td class="number">2 162,0</td><td class="number">2 159,2</td></tr>
+<tr><td></td><td>Березниковское сельское поселение</td><td class="number">247,6</td><td class="number">247,3</td></tr>
+<tr><td></td><td>Бичуринское сельское поселение</td><td class="number">391,9</td><td class="number">391,4</td></tr>
+<tr><td></td><td>Брюзлинское сельское поселение</td><td class="number">188,7</td><td class="number">188,4</td></tr>
+<tr><td></td><td>Елпачихинское сельское поселение</td><td class="number">458,2</td><td class="number">457,6</td></tr>
+<tr><td></td><td>Красноярское сельское поселение</td><td class="number">498,7</td><td class="number">498,0</td></tr>
+<tr><td></td><td>Ново-Ашапское сельское поселение</td><td class="number">109,9</td><td class="number">109,8</td></tr>
+<tr><td></td><td>Печменское сельское поселение</td><td class="number">379,9</td><td class="number">379,4</td></tr>
+<tr><td></td><td>Сарашевское сельское поселение</td><td class="number">590,6</td><td class="number">589,9</td></tr>
+<tr><td></td><td>Тюндюковское сельское поселение</td><td class="number">316,8</td><td class="number">316,4</td></tr>
+<tr><td></td><td>Федорковское сельское поселение</td><td class="number">281,6</td><td class="number">281,2</td></tr>
+<tr><td></td><td>Шермейское сельское поселение</td><td class="number">120,9</td><td class="number">120,7</td></tr>
+<tr><td>15</td><td>Березовский муниципальный район, всего</td><td class="number">3 735,0</td><td class="number">3 730,2</td></tr>
+<tr><td></td><td>Березовское сельское поселение</td><td class="number">1 721,6</td><td class="number">1 719,4</td></tr>
+<tr><td></td><td>Асовское сельское поселение</td><td class="number">512,6</td><td class="number">511,9</td></tr>
+<tr><td></td><td>Дубовское сельское поселение</td><td class="number">256,5</td><td class="number">256,2</td></tr>
+<tr><td></td><td>Сосновское сельское поселение</td><td class="number">230,8</td><td class="number">230,5</td></tr>
+<tr><td></td><td>Заборьинское сельское поселение</td><td class="number">266,5</td><td class="number">266,2</td></tr>
+<tr><td></td><td>Кляповское сельское поселение</td><td class="number">370,3</td><td class="number">369,8</td></tr>
+<tr><td></td><td>Переборское сельское поселение</td><td class="number">376,7</td><td class="number">376,2</td></tr>
+<tr><td>16</td><td>Большесосновский муниципальный район, всего</td><td class="number">2 953,2</td><td class="number">2 949,3</td></tr>
+<tr><td></td><td>Большесосновское сельское поселение</td><td class="number">1 364,3</td><td class="number">1 362,5</td></tr>
+<tr><td></td><td>Кленовское сельское поселение</td><td class="number">181,4</td><td class="number">181,2</td></tr>
+<tr><td></td><td>Левинское сельское поселение</td><td class="number">116,3</td><td class="number">116,2</td></tr>
+<tr><td></td><td>Петропавловское сельское поселение</td><td class="number">217,8</td><td class="number">217,5</td></tr>
+<tr><td></td><td>Полозовское сельское поселение</td><td class="number">432,9</td><td class="number">432,3</td></tr>
+<tr><td></td><td>Тойкинское сельское поселение</td><td class="number">142,0</td><td class="number">141,8</td></tr>
+<tr><td></td><td>Черновское сельское поселение</td><td class="number">498,5</td><td class="number">497,8</td></tr>
+<tr><td>17</td><td>Верещагинский муниципальный район, всего</td><td class="number">9 421,1</td><td class="number">9 408,9</td></tr>
+<tr><td></td><td>Верещагинское городское поселение</td><td class="number">5 395,0</td><td class="number">5 388,0</td></tr>
+<tr><td></td><td>Бородульское сельское поселение</td><td class="number">277,0</td><td class="number">276,6</td></tr>
+<tr><td></td><td>Вознесенское сельское поселение</td><td class="number">756,8</td><td class="number">755,8</td></tr>
+<tr><td></td><td>Зюкайское сельское поселение</td><td class="number">1 137,1</td><td class="number">1 135,7</td></tr>
+<tr><td></td><td>Нижнегалинское сельское поселение</td><td class="number">392,6</td><td class="number">392,1</td></tr>
+<tr><td></td><td>Путинское сельское поселение</td><td class="number">663,2</td><td class="number">662,4</td></tr>
+<tr><td></td><td>Сепычевское сельское поселение</td><td class="number">799,4</td><td class="number">798,3</td></tr>
+<tr><td>18</td><td>Горнозаводский муниципальный район, всего</td><td class="number">5 719,0</td><td class="number">5 711,5</td></tr>
+<tr><td></td><td>Горнозаводское городское поселение</td><td class="number">2 758,1</td><td class="number">2 754,6</td></tr>
+<tr><td></td><td>Бисерское сельское поселение</td><td class="number">277,5</td><td class="number">277,1</td></tr>
+<tr><td></td><td>Кусье-Александровское сельское поселение</td><td class="number">466,6</td><td class="number">466,0</td></tr>
+<tr><td></td><td>Пашийское сельское поселение</td><td class="number">943,7</td><td class="number">942,4</td></tr>
+<tr><td></td><td>Сарановское сельское поселение</td><td class="number">236,3</td><td class="number">236,0</td></tr>
+<tr><td></td><td>Теплогорское сельское поселение</td><td class="number">818,5</td><td class="number">817,4</td></tr>
+<tr><td></td><td>Медведкинское сельское поселение</td><td class="number">218,3</td><td class="number">218,0</td></tr>
+<tr><td>19</td><td>Еловский муниципальный район, всего</td><td class="number">2 300,6</td><td class="number">2 297,7</td></tr>
+<tr><td></td><td>Еловское сельское поселение</td><td class="number">1 456,9</td><td class="number">1 455,0</td></tr>
+<tr><td></td><td>Брюховское сельское поселение</td><td class="number">341,4</td><td class="number">341,0</td></tr>
+<tr><td></td><td>Дубровское сельское поселение</td><td class="number">239,9</td><td class="number">239,6</td></tr>
+<tr><td></td><td>Сугановское сельское поселение</td><td class="number">163,2</td><td class="number">163,0</td></tr>
+<tr><td></td><td>Малоусинское сельское поселение</td><td class="number">99,2</td><td class="number">99,1</td></tr>
+<tr><td>20</td><td>Ильинский муниципальный район, всего</td><td class="number">4 408,8</td><td class="number">4 403,1</td></tr>
+<tr><td></td><td>Ильинское сельское поселение</td><td class="number">1 704,1</td><td class="number">1 701,9</td></tr>
+<tr><td></td><td>Чермозское городское поселение</td><td class="number">928,0</td><td class="number">926,8</td></tr>
+<tr><td></td><td>Ивановское сельское поселение</td><td class="number">233,5</td><td class="number">233,2</td></tr>
+<tr><td></td><td>Васильевское сельское поселение</td><td class="number">396,0</td><td class="number">395,5</td></tr>
+<tr><td></td><td>Посерское сельское поселение</td><td class="number">246,3</td><td class="number">246,0</td></tr>
+<tr><td></td><td>Сретенское сельское поселение</td><td class="number">717,0</td><td class="number">716,0</td></tr>
+<tr><td></td><td>Филатовское сельское поселение</td><td class="number">183,9</td><td class="number">183,7</td></tr>
+<tr><td>21</td><td>Карагайский муниципальный район, всего</td><td class="number">5 025,5</td><td class="number">5 019,0</td></tr>
+<tr><td></td><td>Карагайское сельское поселение</td><td class="number">1 939,4</td><td class="number">1 936,9</td></tr>
+<tr><td></td><td>Козьмодемьяновское сельское поселение</td><td class="number">235,6</td><td class="number">235,3</td></tr>
+<tr><td></td><td>Менделеевское сельское поселение</td><td class="number">1 345,8</td><td class="number">1 344,1</td></tr>
+<tr><td></td><td>Нердвинское сельское поселение</td><td class="number">511,9</td><td class="number">511,2</td></tr>
+<tr><td></td><td>Никольское сельское поселение</td><td class="number">288,4</td><td class="number">288,0</td></tr>
+<tr><td></td><td>Обвинское сельское поселение</td><td class="number">295,2</td><td class="number">294,8</td></tr>
+<tr><td></td><td>Рождественское сельское поселение</td><td class="number">409,2</td><td class="number">408,7</td></tr>
+<tr><td>22</td><td>Кишертский муниципальный район, всего</td><td class="number">2 857,1</td><td class="number">2 853,4</td></tr>
+<tr><td></td><td>Усть-Кишертское сельское поселение</td><td class="number">1 288,5</td><td class="number">1 286,8</td></tr>
+<tr><td></td><td>Андреевское сельское поселение</td><td class="number">384,4</td><td class="number">383,9</td></tr>
+<tr><td></td><td>Кордонское сельское поселение</td><td class="number">332,1</td><td class="number">331,6</td></tr>
+<tr><td></td><td>Осинцевское сельское поселение</td><td class="number">494,1</td><td class="number">493,5</td></tr>
+<tr><td></td><td>Посадское сельское поселение</td><td class="number">358,0</td><td class="number">357,6</td></tr>
+<tr><td>23</td><td>Куединский муниципальный район, всего</td><td class="number">6 001,1</td><td class="number">5 993,4</td></tr>
+<tr><td></td><td>Куединское сельское поселение</td><td class="number">2 696,0</td><td class="number">2 692,5</td></tr>
+<tr><td></td><td>Бикбардинское сельское поселение</td><td class="number">236,9</td><td class="number">236,6</td></tr>
+<tr><td></td><td>Большегондырское сельское поселение</td><td class="number">671,4</td><td class="number">670,6</td></tr>
+<tr><td></td><td>Большекустовское сельское поселение</td><td class="number">236,7</td><td class="number">236,4</td></tr>
+<tr><td></td><td>Большеусинское сельское поселение</td><td class="number">540,8</td><td class="number">540,1</td></tr>
+<tr><td></td><td>Нижнесавинское сельское поселение</td><td class="number">222,6</td><td class="number">222,3</td></tr>
+<tr><td></td><td>Ошьинское сельское поселение</td><td class="number">380,3</td><td class="number">379,8</td></tr>
+<tr><td></td><td>Талмазское сельское поселение</td><td class="number">163,6</td><td class="number">163,4</td></tr>
+<tr><td></td><td>Федоровское сельское поселение</td><td class="number">299,5</td><td class="number">299,1</td></tr>
+<tr><td></td><td>Шагиртское сельское поселение</td><td class="number">553,3</td><td class="number">552,6</td></tr>
+<tr><td>24</td><td>Кунгурский муниципальный район, всего</td><td class="number">9 808,9</td><td class="number">9 796,3</td></tr>
+<tr><td></td><td>Бырминское сельское поселение</td><td class="number">314,1</td><td class="number">313,7</td></tr>
+<tr><td></td><td>Голдыревское сельское поселение</td><td class="number">443,6</td><td class="number">443,0</td></tr>
+<tr><td></td><td>Зарубинское сельское поселение</td><td class="number">482,8</td><td class="number">482,1</td></tr>
+<tr><td></td><td>Калининское сельское поселение</td><td class="number">640,5</td><td class="number">639,7</td></tr>
+<tr><td></td><td>Комсомольское сельское поселение</td><td class="number">768,2</td><td class="number">767,2</td></tr>
+<tr><td></td><td>Кыласовское сельское поселение</td><td class="number">531,5</td><td class="number">530,8</td></tr>
+<tr><td></td><td>Ленское сельское поселение</td><td class="number">642,5</td><td class="number">641,7</td></tr>
+<tr><td></td><td>Мазунинское сельское поселение</td><td class="number">301,6</td><td class="number">301,2</td></tr>
+<tr><td></td><td>Моховское сельское поселение</td><td class="number">626,8</td><td class="number">626,0</td></tr>
+<tr><td></td><td>Насадское сельское поселение</td><td class="number">187,5</td><td class="number">187,3</td></tr>
+<tr><td></td><td>Неволинское сельское поселение</td><td class="number">567,9</td><td class="number">567,1</td></tr>
+<tr><td></td><td>Плехановское сельское поселение</td><td class="number">669,2</td><td class="number">668,3</td></tr>
+<tr><td></td><td>Сергинское сельское поселение</td><td class="number">509,8</td><td class="number">509,2</td></tr>
+<tr><td></td><td>Троельжанское сельское поселение</td><td class="number">555,8</td><td class="number">555,1</td></tr>
+<tr><td></td><td>Усть-Турское сельское поселение</td><td class="number">492,8</td><td class="number">492,1</td></tr>
+<tr><td></td><td>Филипповское сельское поселение</td><td class="number">828,0</td><td class="number">827,0</td></tr>
+<tr><td></td><td>Шадейское сельское поселение</td><td class="number">514,8</td><td class="number">514,2</td></tr>
+<tr><td></td><td>Ергачинское сельское поселение</td><td class="number">468,4</td><td class="number">467,8</td></tr>
+<tr><td></td><td>Тихановское сельское поселение</td><td class="number">263,1</td><td class="number">262,8</td></tr>
+<tr><td>25</td><td>Красновишерский муниципальный район, всего</td><td class="number">4 974,8</td><td class="number">4 968,4</td></tr>
+<tr><td></td><td>Красновишерское городское поселение</td><td class="number">3 776,5</td><td class="number">3 771,6</td></tr>
+<tr><td></td><td>Верх-Язьвинское сельское поселение</td><td class="number">585,9</td><td class="number">585,1</td></tr>
+<tr><td></td><td>Вишерогорское сельское поселение</td><td class="number">121,5</td><td class="number">121,4</td></tr>
+<tr><td></td><td>Вайское сельское поселение</td><td class="number">181,4</td><td class="number">181,2</td></tr>
+<tr><td></td><td>Усть-Язьвинское сельское поселение</td><td class="number">309,5</td><td class="number">309,1</td></tr>
+<tr><td>26</td><td>Нытвенский муниципальный район, всего</td><td class="number">9 764,7</td><td class="number">9 752,1</td></tr>
+<tr><td></td><td>Нытвенское городское поселение</td><td class="number">4 476,6</td><td class="number">4 470,8</td></tr>
+<tr><td></td><td>Новоильинское городское поселение</td><td class="number">794,6</td><td class="number">793,6</td></tr>
+<tr><td></td><td>Уральское городское поселение</td><td class="number">1 837,5</td><td class="number">1 835,1</td></tr>
+<tr><td></td><td>Григорьевское сельское поселение</td><td class="number">795,3</td><td class="number">794,2</td></tr>
+<tr><td></td><td>Постаноговское сельское поселение</td><td class="number">191,4</td><td class="number">191,2</td></tr>
+<tr><td></td><td>Чайковское сельское поселение</td><td class="number">867,4</td><td class="number">866,3</td></tr>
+<tr><td></td><td>Чекменевское сельское поселение</td><td class="number">237,2</td><td class="number">236,9</td></tr>
+<tr><td></td><td>Шерьинское сельское поселение</td><td class="number">564,7</td><td class="number">564,0</td></tr>
+<tr><td>27</td><td>Октябрьский муниципальный район, всего</td><td class="number">6 697,8</td><td class="number">6 689,1</td></tr>
+<tr><td></td><td>Октябрьское городское поселение</td><td class="number">2 532,4</td><td class="number">2 529,1</td></tr>
+<tr><td></td><td>Сарсинское городское поселение</td><td class="number">1 231,8</td><td class="number">1 230,2</td></tr>
+<tr><td></td><td>Атнягузинское сельское поселение</td><td class="number">208,0</td><td class="number">207,8</td></tr>
+<tr><td></td><td>Басинское сельское поселение</td><td class="number">369,9</td><td class="number">369,4</td></tr>
+<tr><td></td><td>Биявашское сельское поселение</td><td class="number">193,2</td><td class="number">193,0</td></tr>
+<tr><td></td><td>Богородское сельское поселение</td><td class="number">348,0</td><td class="number">347,6</td></tr>
+<tr><td></td><td>Верх-Тюшевское сельское поселение</td><td class="number">177,1</td><td class="number">176,8</td></tr>
+<tr><td></td><td>Енапаевское сельское поселение</td><td class="number">247,0</td><td class="number">246,6</td></tr>
+<tr><td></td><td>Заводо-Тюшевское сельское поселение</td><td class="number">267,0</td><td class="number">266,6</td></tr>
+<tr><td></td><td>Ишимовское сельское поселение</td><td class="number">241,7</td><td class="number">241,4</td></tr>
+<tr><td></td><td>Петропавловское сельское поселение</td><td class="number">182,3</td><td class="number">182,1</td></tr>
+<tr><td></td><td>Русско-Сарсинское сельское поселение</td><td class="number">193,2</td><td class="number">193,0</td></tr>
+<tr><td></td><td>Щучье-Озерское сельское поселение</td><td class="number">506,2</td><td class="number">505,5</td></tr>
+<tr><td>28</td><td>Осинский муниципальный район, всего</td><td class="number">6 669,7</td><td class="number">6 661,2</td></tr>
+<tr><td></td><td>Осинское городское поселение</td><td class="number">4 928,8</td><td class="number">4 922,5</td></tr>
+<tr><td></td><td>Верхнедавыдовское сельское поселение</td><td class="number">178,0</td><td class="number">177,8</td></tr>
+<tr><td></td><td>Горское сельское поселение</td><td class="number">163,6</td><td class="number">163,4</td></tr>
+<tr><td></td><td>Гремячинское сельское поселение</td><td class="number">240,8</td><td class="number">240,5</td></tr>
+<tr><td></td><td>Комаровское сельское поселение</td><td class="number">193,0</td><td class="number">192,8</td></tr>
+<tr><td></td><td>Крыловское сельское поселение</td><td class="number">384,7</td><td class="number">384,2</td></tr>
+<tr><td></td><td>Новозалесновское сельское поселение</td><td class="number">163,6</td><td class="number">163,4</td></tr>
+<tr><td></td><td>Паклинское сельское поселение</td><td class="number">250,1</td><td class="number">249,8</td></tr>
+<tr><td></td><td>Пальское сельское поселение</td><td class="number">167,1</td><td class="number">166,8</td></tr>
+<tr><td>29</td><td>Ординский муниципальный район, всего</td><td class="number">3 513,4</td><td class="number">3 508,7</td></tr>
+<tr><td></td><td>Ординское сельское поселение</td><td class="number">1 352,9</td><td class="number">1 351,1</td></tr>
+<tr><td></td><td>Ашапское сельское поселение</td><td class="number">516,0</td><td class="number">515,3</td></tr>
+<tr><td></td><td>Карьевское сельское поселение</td><td class="number">438,6</td><td class="number">438,0</td></tr>
+<tr><td></td><td>Красноясыльское сельское поселение</td><td class="number">428,6</td><td class="number">428,0</td></tr>
+<tr><td></td><td>Медянское сельское поселение</td><td class="number">777,3</td><td class="number">776,3</td></tr>
+<tr><td>30</td><td>Оханский муниципальный район, всего</td><td class="number">3 741,4</td><td class="number">3 736,5</td></tr>
+<tr><td></td><td>Оханское городское поселение</td><td class="number">1 639,9</td><td class="number">1 637,8</td></tr>
+<tr><td></td><td>Андреевское сельское поселение</td><td class="number">199,2</td><td class="number">198,9</td></tr>
+<tr><td></td><td>Беляевское сельское поселение</td><td class="number">187,5</td><td class="number">187,3</td></tr>
+<tr><td></td><td>Дубровское сельское поселение</td><td class="number">473,4</td><td class="number">472,8</td></tr>
+<tr><td></td><td>Казанское сельское поселение</td><td class="number">214,2</td><td class="number">213,9</td></tr>
+<tr><td></td><td>Острожское сельское поселение</td><td class="number">393,5</td><td class="number">393,0</td></tr>
+<tr><td></td><td>Таборское сельское поселение</td><td class="number">359,4</td><td class="number">358,9</td></tr>
+<tr><td></td><td>Тулумбаихинское сельское поселение</td><td class="number">274,3</td><td class="number">273,9</td></tr>
+<tr><td>31</td><td>Очерский муниципальный район, всего</td><td class="number">5 178,3</td><td class="number">5 171,7</td></tr>
+<tr><td></td><td>Очерское городское поселение</td><td class="number">3 206,5</td><td class="number">3 202,4</td></tr>
+<tr><td></td><td>Павловское городское поселение</td><td class="number">1 055,4</td><td class="number">1 054,1</td></tr>
+<tr><td></td><td>Кипринское сельское поселение</td><td class="number">213,0</td><td class="number">212,8</td></tr>
+<tr><td></td><td>Нововознесенское сельское поселение</td><td class="number">260,2</td><td class="number">259,8</td></tr>
+<tr><td></td><td>Спешковское сельское поселение</td><td class="number">443,2</td><td class="number">442,6</td></tr>
+<tr><td>32</td><td>Пермский муниципальный район, всего</td><td class="number">23 786,0</td><td class="number">23 755,0</td></tr>
+<tr><td></td><td>Сылвенское сельское поселение</td><td class="number">2 337,1</td><td class="number">2 334,1</td></tr>
+<tr><td></td><td>Юго-Камское сельское поселение</td><td class="number">2 170,0</td><td class="number">2 167,2</td></tr>
+<tr><td></td><td>Бершетское сельское поселение</td><td class="number">889,5</td><td class="number">888,3</td></tr>
+<tr><td></td><td>Гамовское сельское поселение</td><td class="number">1 341,1</td><td class="number">1 339,3</td></tr>
+<tr><td></td><td>Двуреченское сельское поселение</td><td class="number">1 920,3</td><td class="number">1 917,8</td></tr>
+<tr><td></td><td>Заболотское сельское поселение</td><td class="number">356,9</td><td class="number">356,4</td></tr>
+<tr><td></td><td>Кондратовское сельское поселение</td><td class="number">2 401,0</td><td class="number">2 397,9</td></tr>
+<tr><td></td><td>Кукуштанское сельское поселение</td><td class="number">2 058,3</td><td class="number">2 055,6</td></tr>
+<tr><td></td><td>Култаевское сельское поселение</td><td class="number">2 452,9</td><td class="number">2 449,8</td></tr>
+<tr><td></td><td>Лобановское сельское поселение</td><td class="number">2 122,2</td><td class="number">2 119,5</td></tr>
+<tr><td></td><td>Пальниковское сельское поселение</td><td class="number">367,6</td><td class="number">367,1</td></tr>
+<tr><td></td><td>Платошинское сельское поселение</td><td class="number">569,5</td><td class="number">568,7</td></tr>
+<tr><td></td><td>Савинское сельское поселение</td><td class="number">1 571,2</td><td class="number">1 569,1</td></tr>
+<tr><td></td><td>Усть-Качкинское сельское поселение</td><td class="number">1 361,5</td><td class="number">1 359,8</td></tr>
+<tr><td></td><td>Фроловское сельское поселение</td><td class="number">977,8</td><td class="number">976,5</td></tr>
+<tr><td></td><td>Хохловское сельское поселение</td><td class="number">302,3</td><td class="number">301,9</td></tr>
+<tr><td></td><td>Юговское сельское поселение</td><td class="number">586,8</td><td class="number">586,0</td></tr>
+<tr><td>33</td><td>Сивинский муниципальный район, всего</td><td class="number">3 300,5</td><td class="number">3 296,3</td></tr>
+<tr><td></td><td>Сивинское сельское поселение</td><td class="number">1 650,6</td><td class="number">1 648,5</td></tr>
+<tr><td></td><td>Бубинское сельское поселение</td><td class="number">653,2</td><td class="number">652,4</td></tr>
+<tr><td></td><td>Екатерининское сельское поселение</td><td class="number">507,3</td><td class="number">506,7</td></tr>
+<tr><td></td><td>Северокоммунарское сельское поселение</td><td class="number">489,4</td><td class="number">488,7</td></tr>
+<tr><td>34</td><td>Соликамский муниципальный район, всего</td><td class="number">3 851,5</td><td class="number">3 846,3</td></tr>
+<tr><td></td><td>Басимское сельское поселение</td><td class="number">129,3</td><td class="number">129,1</td></tr>
+<tr><td></td><td>Касибское сельское поселение</td><td class="number">272,7</td><td class="number">272,3</td></tr>
+<tr><td></td><td>Краснобережское сельское поселение</td><td class="number">756,8</td><td class="number">755,8</td></tr>
+<tr><td></td><td>Половодовское сельское поселение</td><td class="number">854,0</td><td class="number">852,9</td></tr>
+<tr><td></td><td>Родниковское сельское поселение</td><td class="number">521,0</td><td class="number">520,3</td></tr>
+<tr><td></td><td>Тохтуевское сельское поселение</td><td class="number">624,6</td><td class="number">623,7</td></tr>
+<tr><td></td><td>Тюлькинское сельское поселение</td><td class="number">693,1</td><td class="number">692,2</td></tr>
+<tr><td>35</td><td>Суксунский муниципальный район, всего</td><td class="number">4 523,7</td><td class="number">4 517,8</td></tr>
+<tr><td></td><td>Суксунское городское поселение</td><td class="number">1 884,4</td><td class="number">1 881,9</td></tr>
+<tr><td></td><td>Киселевское сельское поселение</td><td class="number">605,2</td><td class="number">604,4</td></tr>
+<tr><td></td><td>Ключевское сельское поселение</td><td class="number">1 091,6</td><td class="number">1 090,2</td></tr>
+<tr><td></td><td>Поедугинское сельское поселение</td><td class="number">942,5</td><td class="number">941,3</td></tr>
+<tr><td>36</td><td>Усольский муниципальный район, всего</td><td class="number">3 197,5</td><td class="number">2 897,8</td></tr>
+<tr><td></td><td>Усольское городское поселение</td><td class="number">1 966,8</td><td class="number">1 964,2</td></tr>
+<tr><td></td><td>Орлинское сельское поселение</td><td class="number">515,1</td><td class="number">514,4</td></tr>
+<tr><td></td><td>Романовское сельское поселение</td><td class="number">295,9</td><td class="number">0,0</td></tr>
+<tr><td></td><td>Троицкое сельское поселение</td><td class="number">419,7</td><td class="number">419,2</td></tr>
+<tr><td>37</td><td>Уинский муниципальный район, всего</td><td class="number">2 429,8</td><td class="number">2 426,7</td></tr>
+<tr><td></td><td>Уинское сельское поселение</td><td class="number">1 023,8</td><td class="number">1 022,5</td></tr>
+<tr><td></td><td>Аспинское сельское поселение</td><td class="number">385,8</td><td class="number">385,3</td></tr>
+<tr><td></td><td>Воскресенское сельское поселение</td><td class="number">232,2</td><td class="number">231,9</td></tr>
+<tr><td></td><td>Ломовское сельское поселение</td><td class="number">125,2</td><td class="number">125,0</td></tr>
+<tr><td></td><td>Нижнесыповское сельское поселение</td><td class="number">207,1</td><td class="number">206,9</td></tr>
+<tr><td></td><td>Судинское сельское поселение</td><td class="number">255,6</td><td class="number">255,3</td></tr>
+<tr><td></td><td>Чайкинское сельское поселение</td><td class="number">200,1</td><td class="number">199,8</td></tr>
+<tr><td>38</td><td>Частинский муниципальный район, всего</td><td class="number">2 934,8</td><td class="number">2 931,0</td></tr>
+<tr><td></td><td>Частинское сельское поселение</td><td class="number">1 560,0</td><td class="number">1 558,0</td></tr>
+<tr><td></td><td>Бабкинское сельское поселение</td><td class="number">310,0</td><td class="number">309,6</td></tr>
+<tr><td></td><td>Ножовское сельское поселение</td><td class="number">525,8</td><td class="number">525,1</td></tr>
+<tr><td></td><td>Шабуровское сельское поселение</td><td class="number">539,0</td><td class="number">538,3</td></tr>
+<tr><td>39</td><td>Чердынский муниципальный район, всего</td><td class="number">5 240,4</td><td class="number">5 233,6</td></tr>
+<tr><td></td><td>Чердынское городское поселение</td><td class="number">1 063,6</td><td class="number">1 062,2</td></tr>
+<tr><td></td><td>Ныробское городское поселение</td><td class="number">1 296,0</td><td class="number">1 294,3</td></tr>
+<tr><td></td><td>Бондюжское сельское поселение</td><td class="number">295,0</td><td class="number">294,6</td></tr>
+<tr><td></td><td>Валайское сельское поселение</td><td class="number">276,5</td><td class="number">276,2</td></tr>
+<tr><td></td><td>Вильгортское сельское поселение</td><td class="number">283,1</td><td class="number">282,8</td></tr>
+<tr><td></td><td>Керчевское сельское поселение</td><td class="number">586,1</td><td class="number">585,3</td></tr>
+<tr><td></td><td>Колвинское сельское поселение</td><td class="number">163,6</td><td class="number">163,4</td></tr>
+<tr><td></td><td>Покчинское сельское поселение</td><td class="number">468,0</td><td class="number">467,4</td></tr>
+<tr><td></td><td>Рябининское сельское поселение</td><td class="number">600,9</td><td class="number">600,1</td></tr>
+<tr><td></td><td>Усть-Урольское сельское поселение</td><td class="number">207,6</td><td class="number">207,3</td></tr>
+<tr><td>40</td><td>Чернушинский муниципальный район, всего</td><td class="number">11 476,2</td><td class="number">11 461,5</td></tr>
+<tr><td></td><td>Чернушинское городское поселение</td><td class="number">7 796,0</td><td class="number">7 785,9</td></tr>
+<tr><td></td><td>Ананьинское сельское поселение</td><td class="number">221,5</td><td class="number">221,2</td></tr>
+<tr><td></td><td>Бедряжинское сельское поселение</td><td class="number">178,9</td><td class="number">178,7</td></tr>
+<tr><td></td><td>Бродовское сельское поселение</td><td class="number">247,2</td><td class="number">246,9</td></tr>
+<tr><td></td><td>Деменевское сельское поселение</td><td class="number">228,5</td><td class="number">228,2</td></tr>
+<tr><td></td><td>Етышинское сельское поселение</td><td class="number">144,1</td><td class="number">143,9</td></tr>
+<tr><td></td><td>Калиновское сельское поселение</td><td class="number">161,6</td><td class="number">161,4</td></tr>
+<tr><td></td><td>Павловское сельское поселение</td><td class="number">409,7</td><td class="number">409,2</td></tr>
+<tr><td></td><td>Рябковское сельское поселение</td><td class="number">489,6</td><td class="number">489,0</td></tr>
+<tr><td></td><td>Слудовское сельское поселение</td><td class="number">324,6</td><td class="number">324,1</td></tr>
+<tr><td></td><td>Сульмашинское сельское поселение</td><td class="number">276,5</td><td class="number">276,2</td></tr>
+<tr><td></td><td>Таушинское сельское поселение</td><td class="number">288,8</td><td class="number">288,5</td></tr>
+<tr><td></td><td>Труновское сельское поселение</td><td class="number">249,0</td><td class="number">248,7</td></tr>
+<tr><td></td><td>Трушниковское сельское поселение</td><td class="number">231,0</td><td class="number">230,7</td></tr>
+<tr><td></td><td>Тюинское сельское поселение</td><td class="number">229,2</td><td class="number">228,9</td></tr>
+<tr><td>41</td><td>ЗАТО Звездный</td><td class="number">2 081,0</td><td class="number">2 078,3</td></tr>
+<tr><td>42</td><td>г.Кудымкар</td><td class="number">6 865,1</td><td class="number">6 856,2</td></tr>
+<tr><td>43</td><td>Гайнский муниципальный район, всего</td><td class="number">2 939,6</td><td class="number">2 936,1</td></tr>
+<tr><td></td><td>Гайнское сельское поселение</td><td class="number">1 232,0</td><td class="number">1 230,5</td></tr>
+<tr><td></td><td>Верхнестарицкое сельское поселение</td><td class="number">323,4</td><td class="number">323,0</td></tr>
+<tr><td></td><td>Иванчинское сельское поселение</td><td class="number">310,2</td><td class="number">309,9</td></tr>
+<tr><td></td><td>Усть-Черновское сельское поселение</td><td class="number">353,2</td><td class="number">352,8</td></tr>
+<tr><td></td><td>Кебратское сельское поселение</td><td class="number">298,6</td><td class="number">298,2</td></tr>
+<tr><td></td><td>Сейвинское сельское поселение</td><td class="number">192,8</td><td class="number">192,5</td></tr>
+<tr><td></td><td>Серебрянское сельское поселение</td><td class="number">229,4</td><td class="number">229,2</td></tr>
+<tr><td>44</td><td>Косинский муниципальный район, всего</td><td class="number">1 570,5</td><td class="number">1 568,6</td></tr>
+<tr><td></td><td>Косинское сельское поселение</td><td class="number">1 061,8</td><td class="number">1 060,4</td></tr>
+<tr><td></td><td>Светличанское сельское поселение</td><td class="number">138,8</td><td class="number">138,7</td></tr>
+<tr><td></td><td>Левичанское сельское поселение</td><td class="number">154,8</td><td class="number">154,6</td></tr>
+<tr><td></td><td>Чазевское сельское поселение</td><td class="number">215,1</td><td class="number">214,9</td></tr>
+<tr><td>45</td><td>Кочевский муниципальный район, всего</td><td class="number">2 464,5</td><td class="number">2 461,3</td></tr>
+<tr><td></td><td>Кочевское сельское поселение</td><td class="number">1 398,4</td><td class="number">1 396,6</td></tr>
+<tr><td></td><td>Большекочинское сельское поселение</td><td class="number">229,0</td><td class="number">228,7</td></tr>
+<tr><td></td><td>Юксеевское сельское поселение</td><td class="number">367,6</td><td class="number">367,1</td></tr>
+<tr><td></td><td>Пелымское сельское поселение</td><td class="number">259,2</td><td class="number">258,9</td></tr>
+<tr><td></td><td>Маратовское сельское поселение</td><td class="number">210,3</td><td class="number">210,0</td></tr>
+<tr><td>46</td><td>Кудымкарский муниципальный район, всего</td><td class="number">5 625,3</td><td class="number">5 618,1</td></tr>
+<tr><td></td><td>Белоевское сельское поселение</td><td class="number">1 146,7</td><td class="number">1 145,2</td></tr>
+<tr><td></td><td>Верх-Иньвенское сельское поселение</td><td class="number">1 090,9</td><td class="number">1 089,5</td></tr>
+<tr><td></td><td>Ленинское сельское поселение</td><td class="number">657,3</td><td class="number">656,5</td></tr>
+<tr><td></td><td>Ошибское сельское поселение</td><td class="number">684,2</td><td class="number">683,3</td></tr>
+<tr><td></td><td>Степановское сельское поселение</td><td class="number">1 210,9</td><td class="number">1 209,4</td></tr>
+<tr><td></td><td>Егвинское сельское поселение</td><td class="number">835,3</td><td class="number">834,2</td></tr>
+<tr><td>47</td><td>Юрлинский муниципальный район, всего</td><td class="number">2 069,7</td><td class="number">2 067,1</td></tr>
+<tr><td></td><td>Юрлинское сельское поселение</td><td class="number">1 607,4</td><td class="number">1 605,3</td></tr>
+<tr><td></td><td>Усть-Зулинское сельское поселение</td><td class="number">283,4</td><td class="number">283,1</td></tr>
+<tr><td></td><td>Усть-Березовское сельское поселение</td><td class="number">178,9</td><td class="number">178,7</td></tr>
+<tr><td>48</td><td>Юсьвинский муниципальный район, всего</td><td class="number">4 335,8</td><td class="number">4 330,4</td></tr>
+<tr><td></td><td>Юсьвинское сельское поселение</td><td class="number">1 540,4</td><td class="number">1 538,5</td></tr>
+<tr><td></td><td>Майкорское сельское поселение</td><td class="number">720,4</td><td class="number">719,5</td></tr>
+<tr><td></td><td>Пожвинское сельское поселение</td><td class="number">880,8</td><td class="number">879,7</td></tr>
+<tr><td></td><td>Купросское сельское поселение</td><td class="number">607,7</td><td class="number">606,9</td></tr>
+<tr><td></td><td>Архангельское сельское поселение</td><td class="number">586,5</td><td class="number">585,8</td></tr>
+<tr><td></td><td>Нераспределенный остаток</td><td class="number">45 131,2</td><td class="number">97 435,1</td></tr>
+<tr><td></td><td>Всего Пермский край</td><td class="number">644 731,3</td><td class="number">695 965,1</td></tr></body>
+</table>
+
+

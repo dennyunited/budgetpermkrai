@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+    <thead>
+        <tr>
+            <th>N п/п</th>
+            <th>Наименование муниципальных образований</th>
+            <th>2014 год</th>
+            <th>2015 год</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>г. Пермь </td>
+            <td class="number">400 418,1</td>
+            <td class="number">403 979,1				</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>р-н Александровский </td>
+            <td class="number">21 361,9</td>
+            <td class="number">21 554,2 </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>г. Березники </td>
+            <td class="number">154 281,5</td>
+            <td class="number">155 442,8 </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>р-н Гремячинский </td>
+            <td class="number">9 213,3</td>
+            <td class="number">9 297,9 </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>г. Губаха </td>
+            <td class="number">31 469,3</td>
+            <td class="number">31 759,0 </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>р-н Кизеловский </td>
+            <td class="number">28 196,4</td>
+            <td class="number">28 448,0 </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>р-н Краснокамский </td>
+            <td class="number">28 260,5</td>
+            <td class="number">28 447,5 </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>г. Кунгур </td>
+            <td class="number">32 147,7</td>
+            <td class="number">32 516,1 </td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>г. Лысьва </td>
+            <td class="number">66 744,8</td>
+            <td class="number">67 283,3 </td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>г. Соликамск </td>
+            <td class="number">54 396,7</td>
+            <td class="number">54 921,3 </td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>р-н Чайковский </td>
+            <td class="number">54 254,0</td>
+            <td class="number">54 894,9 </td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>р-н Чусовской </td>
+            <td class="number">64 634,4</td>
+            <td class="number">65 114,8 </td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>р-н Бардымский </td>
+            <td class="number">17 950,1</td>
+            <td class="number">18 043,3 </td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>р-н Верещагинский </td>
+            <td class="number">69 978,9</td>
+            <td class="number">71 254,9 </td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>р-н Еловский </td>
+            <td class="number">12 026,4</td>
+            <td class="number">12 206,1 </td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>р-н Ильинский </td>
+            <td class="number">26 240,5</td>
+            <td class="number">26 632,9 </td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>р-н Карагайский </td>
+            <td class="number">17 985,9</td>
+            <td class="number">18 156,1 </td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>р-н Кишертский </td>
+            <td class="number">11 234,0</td>
+            <td class="number">11 349,8 </td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>р-н Куединский </td>
+            <td class="number">28 450,2</td>
+            <td class="number">28 730,1 </td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>р-н Красновишерский </td>
+            <td class="number">16 668,9</td>
+            <td class="number">16 878,1 </td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>р-н Нытвенский </td>
+            <td class="number">34 026,4</td>
+            <td class="number">34 243,6 </td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>р-н Октябрьский </td>
+            <td class="number">29 160,6</td>
+            <td class="number">29 450,1 </td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>р-н Осинский </td>
+            <td class="number">43 813,7</td>
+            <td class="number">44 047,0 </td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>р-н Ординский </td>
+            <td class="number">26 409,9</td>
+            <td class="number">26 615,7 </td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>р-н Оханский </td>
+            <td class="number">10 885,3</td>
+            <td class="number">11 029,9 </td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>р-н Очерский </td>
+            <td class="number">21 043,9</td>
+            <td class="number">21 390,3 </td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>р-н Сивинский </td>
+            <td class="number">35 218,4</td>
+            <td class="number">35 535,0 </td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>р-н Суксунский </td>
+            <td class="number">37 486,5</td>
+            <td class="number">37 726,4 </td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>р-н Усольский </td>
+            <td class="number">9 181,7</td>
+            <td class="number">9 255,9 </td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>р-н Частинский </td>
+            <td class="number">17 954,6</td>
+            <td class="number">18 206,3 </td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>р-н Чернушинский </td>
+            <td class="number">24 794,5</td>
+            <td class="number">24 983,3 </td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>г. Кудымкар </td>
+            <td class="number">14 951,3</td>
+            <td class="number">15 284,9 </td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>р-н Косинский </td>
+            <td class="number">26 813,5</td>
+            <td class="number">26 946,0 </td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>р-н Кудымкарский </td>
+            <td class="number">71 273,1</td>
+            <td class="number">72 714,6 </td>
+        </tr>
+        <tr>
+            <td>35</td>
+            <td>р-н Юсьвинский </td>
+            <td class="number">16 881,9</td>
+            <td class="number">17 049,0 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Нераспределенный остаток </td>
+            <td class="number">25 519,8</td>
+            <td class="number">25 519,8 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Всего Пермский край </td>
+            <td class="number">1 591 328,6</td>
+            <td class="number">1 606 908,0 </td>
+        </tr>
+    </tbody>
+</table>

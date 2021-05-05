@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<table class="data_table" style="width: 900px">
+<thead><tr><th>"№ 
+п/п"</th><th>Наименование муниципальных образований </th><th>2015 год</th><th>2016 год</th></tr></thead>
+<tbody><tr><td>1</td><td>р-н Александровский</td><td class="number">306,9</td><td class="number">308,0</td></tr>
+<tr><td>2</td><td>г.Березники</td><td class="number">291,9</td><td class="number">292,8</td></tr>
+<tr><td>3</td><td>р-н Гремячинский</td><td class="number">177,4</td><td class="number">178,0</td></tr>
+<tr><td>4</td><td>г.Губаха</td><td class="number">296,9</td><td class="number">297,9</td></tr>
+<tr><td>5</td><td>р-н Добрянский</td><td class="number">459,8</td><td class="number">461,3</td></tr>
+<tr><td>6</td><td>р-н Кизеловский</td><td class="number">444,2</td><td class="number">445,8</td></tr>
+<tr><td>7</td><td>р-н Краснокамский</td><td class="number">464,6</td><td class="number">466,0</td></tr>
+<tr><td>8</td><td>г.Кунгур</td><td class="number">1 267,4</td><td class="number">1 272,0</td></tr>
+<tr><td>9</td><td>г.Лысьва</td><td class="number">230,6</td><td class="number">231,4</td></tr>
+<tr><td>10</td><td>г.Соликамск</td><td class="number">638,0</td><td class="number">640,1</td></tr>
+<tr><td>11</td><td>р-н Чайковский</td><td class="number">277,5</td><td class="number">278,5</td></tr>
+<tr><td>12</td><td>р-н Чусовской</td><td class="number">294,8</td><td class="number">295,8</td></tr>
+<tr><td>13</td><td>р-н Бардымский</td><td class="number">299,3</td><td class="number">300,2</td></tr>
+<tr><td>14</td><td>р-н Березовский</td><td class="number">317,9</td><td class="number">319,5</td></tr>
+<tr><td>15</td><td>р-н Большесосновский</td><td class="number">312,2</td><td class="number">313,3</td></tr>
+<tr><td>16</td><td>р-н Верещагинский</td><td class="number">340,1</td><td class="number">341,3</td></tr>
+<tr><td>17</td><td>р-н Горнозаводский</td><td class="number">183,4</td><td class="number">183,9</td></tr>
+<tr><td>18</td><td>р-н Еловский</td><td class="number">480,8</td><td class="number">482,5</td></tr>
+<tr><td>19</td><td>р-н Ильинский</td><td class="number">683,9</td><td class="number">687,4</td></tr>
+<tr><td>20</td><td>р-н Карагайский</td><td class="number">319,2</td><td class="number">320,4</td></tr>
+<tr><td>21</td><td>р-н Кишертский</td><td class="number">244,2</td><td class="number">245,1</td></tr>
+<tr><td>22</td><td>р-н Куединский</td><td class="number">328,5</td><td class="number">329,6</td></tr>
+<tr><td>23</td><td>р-н Кунгурский</td><td class="number">392,8</td><td class="number">394,2</td></tr>
+<tr><td>24</td><td>р-н Красновишерский</td><td class="number">452,7</td><td class="number">454,3</td></tr>
+<tr><td>25</td><td>р-н Нытвенский</td><td class="number">428,4</td><td class="number">429,9</td></tr>
+<tr><td>26</td><td>р-н Октябрьский</td><td class="number">157,7</td><td class="number">158,2</td></tr>
+<tr><td>27</td><td>р-н Осинский</td><td class="number">304,5</td><td class="number">305,5</td></tr>
+<tr><td>28</td><td>р-н Ординский</td><td class="number">244,6</td><td class="number">245,5</td></tr>
+<tr><td>29</td><td>р-н Оханский</td><td class="number">266,0</td><td class="number">266,9</td></tr>
+<tr><td>30</td><td>р-н Очерский</td><td class="number">314,8</td><td class="number">315,8</td></tr>
+<tr><td>31</td><td>р-н Пермский</td><td class="number">597,6</td><td class="number">599,6</td></tr>
+<tr><td>32</td><td>р-н Сивинский</td><td class="number">257,3</td><td class="number">258,4</td></tr>
+<tr><td>33</td><td>р-н Соликамский</td><td class="number">167,8</td><td class="number">168,2</td></tr>
+<tr><td>34</td><td>р-н Суксунский</td><td class="number">376,0</td><td class="number">377,3</td></tr>
+<tr><td>35</td><td>р-н Усольский</td><td class="number">202,8</td><td class="number">203,4</td></tr>
+<tr><td>36</td><td>р-н Уинский</td><td class="number">158,8</td><td class="number">159,2</td></tr>
+<tr><td>37</td><td>р-н Частинский</td><td class="number">376,4</td><td class="number">377,7</td></tr>
+<tr><td>38</td><td>р-н Чердынский</td><td class="number">324,9</td><td class="number">326,2</td></tr>
+<tr><td>39</td><td>р-н Чернушинский</td><td class="number">517,0</td><td class="number">519,6</td></tr>
+<tr><td>40</td><td>р-н Гайнский</td><td class="number">286,2</td><td class="number">287,0</td></tr>
+<tr><td>41</td><td>р-н Косинский</td><td class="number">319,3</td><td class="number">320,1</td></tr>
+<tr><td>42</td><td>р-н Кочевский</td><td class="number">308,9</td><td class="number">309,7</td></tr>
+<tr><td>43</td><td>р-н Кудымкарский</td><td class="number">217,7</td><td class="number">218,5</td></tr>
+<tr><td>44</td><td>р-н Юрлинский</td><td class="number">170,6</td><td class="number">171,2</td></tr>
+<tr><td>45</td><td>р-н Юсьвинский</td><td class="number">326,1</td><td class="number">327,4</td></tr>
+<tr><td></td><td>Всего Пермский край</td><td class="number">15 828,4</td><td class="number">15 884,6</td></tr></tbody>
+
+</table>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div class="custom_table">
+    <table>
+        <thead>
+            <tr>
+                <th style="vertical-align: middle">Код администратора </th>
+                <th style="vertical-align: middle">Код классификации источников внутреннего финансирования дефицита</th>
+                <th style="vertical-align: middle">Наименование администратора источника финансирования дефицитов бюджетов </th>
+                <th style="width: 100px; vertical-align: middle">2013 год </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> 902 </td>
+                <td></td>
+                <td>Департамент финансов администрации города Перми</td>
+                <td class="rightcell">1 301 869,5</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>01 05 02 01 04 0000 510</td>
+                <td>Увеличение прочих остатков денежных средств бюджета городского округа </td>
+                <td class="rightcell">22 840 319,8</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>01 05 02 01 04 0000 610</td>
+                <td>Уменьшение прочих остатков денежных средств бюджета городского округа </td>
+                <td class="rightcell">24 142 189,3</td>
+            </tr>
+            <tr>
+                <td> 163 </td>
+                <td></td>
+                <td> Департамент имущественных отношений администрации города Перми </td>
+                <td class="rightcell">58 500</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>01 06 01 00 04 0000 630</td>
+                <td>Средства от продажи акций и иных форм участия вкапитале, находящихся в собственности городскихокругов </td>
+                <td class="rightcell">58 500</td>
+            </tr>
+        </tbody>        
+    </table>
+</div>

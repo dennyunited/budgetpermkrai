@@ -1,0 +1,24 @@
+RewriteEngine on
+
+# prevent httpd from serving dotfiles (.htaccess, .svn, .git, etc.)
+RedirectMatch 403 /\..*$
+
+# if a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# otherwise forward it to index.php
+RewriteRule . index.php
+
+<FilesMatch ".(pl|php|cgi|spl|scgi|fcgi)$">
+  Header unset Cache-Control
+</FilesMatch>
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+	ExpiresDefault "modification plus 12 months"  
+</IfModule>
+
+php_value memory_limit 30M
+php_value post_max_size 100M
+php_value upload_max_filesize 30M

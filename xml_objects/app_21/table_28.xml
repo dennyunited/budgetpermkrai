@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<table class="data_table" style="width: 900px">
+<thead><tr><th>№ 
+п/п</th><th>Наименование муниципальных образований </th><th>2015 год</th><th>2016 год</th></tr></thead>
+<tbody><tr><td>1</td><td>г.Пермь</td><td class="number">7 584,5</td><td class="number">7 584,5</td></tr>
+<tr><td>2</td><td>г.Березники</td><td class="number">182,7</td><td class="number">182,7</td></tr>
+<tr><td>3</td><td>г.Соликамск</td><td class="number">743,0</td><td class="number">743,0</td></tr>
+<tr><td>4</td><td>р-н Чайковский</td><td class="number">384,9</td><td class="number">384,9</td></tr>
+<tr><td>5</td><td>р-н Чусовской</td><td class="number">91,3</td><td class="number">91,3</td></tr>
+<tr><td>6</td><td>р-н Горнозаводский</td><td class="number">80,4</td><td class="number">80,4</td></tr>
+<tr><td>7</td><td>р-н Карагайский</td><td class="number">60,9</td><td class="number">60,9</td></tr>
+<tr><td>8</td><td>р-н Нытвенский</td><td class="number">24,4</td><td class="number">24,4</td></tr>
+<tr><td>9</td><td>р-н Пермский</td><td class="number">487,2</td><td class="number">487,2</td></tr>
+<tr><td>10</td><td>р-н Чернушинский</td><td class="number">243,6</td><td class="number">243,6</td></tr>
+<tr><td>11</td><td>ЗАТО Звездный</td><td class="number">121,8</td><td class="number">121,8</td></tr>
+<tr><td></td><td>Всего Пермский край</td><td class="number">10 004,7</td><td class="number">10 004,7</td></tr>
+
+</table>

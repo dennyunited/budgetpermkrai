@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+    <thead>
+        <tr>
+            <th>N п/п</th>
+            <th class="number">Наименование муниципальных образований</th>
+            <th class="number"> Сумма, тыс  рублей</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>г. Пермь </td>
+            <td class="number">73,1										</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>г. Соликамск </td>
+            <td class="number">19,1                                  </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Чайковский муниципальный район, всего </td>
+            <td class="number">8,4          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Чайковское городское поселение </td>
+            <td class="number">8,4                  </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Чусовской муниципальный район, всего </td>
+            <td class="number">3,4           </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Чусовское городское поселение </td>
+            <td class="number">2,9                   </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Верхнечусовское Городковское сельское поселение </td>
+            <td class="number">0,5 </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Березовский муниципальный район, всего</td>
+            <td class="number">2,4          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Березовское сельское поселение </td>
+            <td class="number">0,8                  </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Асовское сельское поселение </td>
+            <td class="number">0,5                     </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Сосновское сельское поселение </td>
+            <td class="number">0,3                   </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Заборьинское сельское поселение </td>
+            <td class="number">0,3                 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Переборское сельское поселение </td>
+            <td class="number">0,5                  </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Горнозаводский муниципальный район, всего </td>
+            <td class="number">3,4      </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Горнозаводское городское поселение </td>
+            <td class="number">3,4              </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Кишертский муниципальный район, всего </td>
+            <td class="number">1,6          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Андреевское сельское поселение </td>
+            <td class="number">0,5                  </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Мечинское сельское поселение </td>
+            <td class="number">0,3                    </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Осинцевское сельское поселение </td>
+            <td class="number">0,5                  </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Черноярское сельское поселение </td>
+            <td class="number">0,3                  </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Куединский муниципальный район, всего </td>
+            <td class="number">3,1          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Куединское сельское поселение </td>
+            <td class="number">3,1                   </td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Нытвенский муниципальный район, всего </td>
+            <td class="number">1,0          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Григорьевское сельское поселение </td>
+            <td class="number">1,0                </td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Ординский муниципальный район, всего </td>
+            <td class="number">1,0          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Карьевское сельское поселение </td>
+            <td class="number">0,5                   </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Красноясыльское сельское поселение </td>
+            <td class="number">0,5              </td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Очерский муниципальный район, всего </td>
+            <td class="number">4,2           </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Очерское городское поселение </td>
+            <td class="number">3,4                    </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Нововознесенское сельское поселение </td>
+            <td class="number">0,3             </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Спешковское сельское поселение </td>
+            <td class="number">0,5                  </td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Пермский муниципальный район, всего </td>
+            <td class="number">2,6           </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Сылвенское сельское поселение </td>
+            <td class="number">2,6                   </td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Сивинский муниципальный район, всего </td>
+            <td class="number">3,6          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Сивинское сельское поселение </td>
+            <td class="number">1,8                    </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Бубинское сельское поселение </td>
+            <td class="number">0,8                    </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Екатерининское сельское поселение </td>
+            <td class="number">0,5               </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Северокоммунарское сельское поселение </td>
+            <td class="number">0,5           </td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Уинский муниципальный район, всего </td>
+            <td class="number">1,2            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Воскресенское сельское поселение </td>
+            <td class="number">0,3                </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ломовское сельское поселение </td>
+            <td class="number">0,3                    </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Судинское сельское поселение </td>
+            <td class="number">0,3                    </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Чайкинское сельское поселение </td>
+            <td class="number">0,3                   </td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Частинский муниципальный район, всего </td>
+            <td class="number">0,3         </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Бабкинское сельское поселение </td>
+            <td class="number">0,3                   </td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Гайнский муниципальный район, всего </td>
+            <td class="number">2,1           </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Гайнское сельское поселение </td>
+            <td class="number">1,3                     </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Кебратское сельское поселение </td>
+            <td class="number">0,5                   </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Серебрянское сельское поселение </td>
+            <td class="number">0,3                 </td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>Кочевский муниципальный район, всего </td>
+            <td class="number">1,6          </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Кочевское сельское поселение </td>
+            <td class="number">1,6					</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Всего Пермский край </td>
+            <td class="number">132,1                           </td>
+        </tr>
+    </tbody>
+</table>

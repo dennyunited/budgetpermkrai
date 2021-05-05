@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px" border="1">
+<thead>
+<tr><th rowspan="3">№  п/п</th><th rowspan="3">Наименование муниципальных образований</th><th colspan="2" rowspan="2">Сумма, тыс  рублей</th><th colspan="4">В том числе</th></tr>
+<tr><th colspan="2">на строительство    и реконструкцию   водохозяйственных     сооружений    </th><th  colspan="2">на капитальный  ремонт водохозяйственных сооружений </th></tr>
+<tr><th>2014</th><th>2015</th><th>2014</th><th>2015</th><th>2014</th><th>2015</th></tr>
+</thead>
+<tbody>
+
+<tr><td>1</td><td>г. Пермь           </td><td class="number">5 771,10</td><td class="number">7 275,00</td><td class="number"></td><td class="number"></td><td class="number">5 771,10</td><td class="number">7 275,00</td></tr>
+<tr><td>2</td><td>р-н Добрянский     </td><td class="number">2 954,90</td><td class="number">0,00</td><td class="number"></td><td class="number"></td><td class="number">2 954,90</td><td class="number"></td></tr>
+<tr><td>3</td><td>г. Кунгур          </td><td class="number">0,00</td><td class="number">8 317,60</td><td class="number"></td><td class="number">8 317,60</td><td class="number"></td><td class="number"></td></tr>
+<tr><td>4</td><td>г. Лысьва          </td><td class="number">225,00</td><td class="number">6 727,50</td><td class="number">225,00</td><td class="number">6 727,50</td><td class="number"></td><td class="number"></td></tr>
+<tr><td>5</td><td>р-н Верещагинский  </td><td class="number">8 490,70</td><td class="number">0,00</td><td class="number">8 490,70</td><td class="number"></td><td class="number"></td><td class="number"></td></tr>
+<tr><td>6</td><td>р-н Куединский     </td><td class="number">1 150,00</td><td class="number">225,00</td><td class="number"></td><td class="number"></td><td class="number">1 150,00</td><td class="number">225,00</td></tr>
+<tr><td>7</td><td>р-н Октябрьский    </td><td class="number">12 059,70</td><td class="number">2 964,00</td><td class="number">9 267,20</td><td class="number"></td><td class="number">2 792,50</td><td class="number">2 964,00</td></tr>
+<tr><td>8</td><td>р-н Осинский       </td><td class="number">18 781,60</td><td class="number">7 922,90</td><td class="number">18 781,60</td><td class="number">7 922,90</td><td class="number"></td><td class="number"></td></tr>
+<tr><td>9</td><td>р-н Пермский       </td><td class="number">20 480,40</td><td class="number">16 110,60</td><td class="number">20 480,40</td><td class="number">16 110,60</td><td class="number"></td><td class="number"></td></tr>
+<tr><td>10</td><td>р-н Кудымкарский   </td><td class="number">5 100,00</td><td class="number">0,00</td><td class="number"></td><td class="number"></td><td class="number">5 100,00</td><td class="number"></td></tr>
+<tr><td>11</td><td>р-н Юрлинский      </td><td class="number">0,00</td><td class="number">14 182,50</td><td class="number"></td><td class="number">14 182,50</td><td class="number"></td><td class="number"></td></tr>
+<tr><td></td><td>Всего Пермский край</td><td class="number">75 013,40</td><td class="number">63 725,10</td><td class="number">57 244,90</td><td class="number">53 261,10</td><td class="number">17 768,50</td><td class="number">10 464,00</td></tr>
+</tbody>                                                                                                                      
+</table>

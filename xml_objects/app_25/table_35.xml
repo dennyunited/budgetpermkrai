@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+    <thead>
+        <tr>
+            <th rowspan="2"> N п/п</th>
+            <th rowspan="2"> Наименование муниципальных образований</th>
+            <th rowspan="2"> Сумма, тыс  рублей</th>
+            <th colspan="2"> В том числе</th>
+        </tr>
+        <tr>
+            <th> возмещение части процентной ставки по долгосрочным, среднесрочным и краткосрочным кредитам, взятым малыми формами хозяйствования</th>
+            <th>возмещение гражданам, ведущим личное подсобное хозяйство, сельскохозяйственным потребительским кооперативам, крестьянским (фермерским) хозяйствам части затрат на уплату процентов по кредитам, полученным в российских кредитных организациях, и займам, полученным в сельскохозяйственных кредитных потребительских кооперативах в 2005-2012 годах на срок до 8 лет</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>р-н Александровский </td>
+            <td class="number">77,0</td>
+            <td class="number">59,0</td>
+            <td class="number">18,0			</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>р-н Добрянский </td>
+            <td class="number">452,0</td>
+            <td class="number">347,0</td>
+            <td class="number">105,0             </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>р-н Кизеловский </td>
+            <td class="number">26,0</td>
+            <td class="number">20,0</td>
+            <td class="number">6,0                </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>р-н Краснокамский </td>
+            <td class="number">1 178,0</td>
+            <td class="number">905,0</td>
+            <td class="number">273,0        </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>г. Лысьва </td>
+            <td class="number">627,0</td>
+            <td class="number">482,0</td>
+            <td class="number">145,0                  </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>р-н Чайковский </td>
+            <td class="number">1 114,0</td>
+            <td class="number">856,0</td>
+            <td class="number">258,0           </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>р-н Чусовской </td>
+            <td class="number">286,0</td>
+            <td class="number">220,0</td>
+            <td class="number">66,0               </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>р-н Бардымский </td>
+            <td class="number">10 715,0</td>
+            <td class="number">8 231,0</td>
+            <td class="number">2 484,0      </td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>р-н Березовский </td>
+            <td class="number">1 288,0</td>
+            <td class="number">989,0</td>
+            <td class="number">299,0          </td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>р-н Большесосновский</td>
+            <td class="number">1 702,0</td>
+            <td class="number">1 308,0</td>
+            <td class="number">394,0   </td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>р-н Верещагинский </td>
+            <td class="number">750,0</td>
+            <td class="number">576,0</td>
+            <td class="number">174,0         </td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>р-н Еловский </td>
+            <td class="number">707,0</td>
+            <td class="number">543,0</td>
+            <td class="number">164,0              </td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>р-н Ильинский </td>
+            <td class="number">997,0</td>
+            <td class="number">766,0</td>
+            <td class="number">231,0             </td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>р-н Карагайский </td>
+            <td class="number">928,0</td>
+            <td class="number">713,0</td>
+            <td class="number">215,0           </td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>р-н Кишертский </td>
+            <td class="number">1 677,0</td>
+            <td class="number">1 288,0</td>
+            <td class="number">389,0        </td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>р-н Куединский </td>
+            <td class="number">453,0</td>
+            <td class="number">348,0</td>
+            <td class="number">105,0            </td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>р-н Кунгурский </td>
+            <td class="number">1 808,0</td>
+            <td class="number">1 389,0</td>
+            <td class="number">419,0        </td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>р-н Красновишерский </td>
+            <td class="number">88,0</td>
+            <td class="number">68,0</td>
+            <td class="number">20,0          </td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>р-н Нытвенский </td>
+            <td class="number">679,0</td>
+            <td class="number">522,0</td>
+            <td class="number">157,0            </td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>р-н Октябрьский </td>
+            <td class="number">768,0</td>
+            <td class="number">590,0</td>
+            <td class="number">178,0           </td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>р-н Осинский </td>
+            <td class="number">912,6</td>
+            <td class="number">701,0</td>
+            <td class="number">211,6              </td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>р-н Ординский </td>
+            <td class="number">2 097,0</td>
+            <td class="number">1 611,0</td>
+            <td class="number">486,0         </td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>р-н Оханский </td>
+            <td class="number">298,0</td>
+            <td class="number">229,0</td>
+            <td class="number">69,0               </td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>р-н Очерский </td>
+            <td class="number">473,0</td>
+            <td class="number">363,0</td>
+            <td class="number">110,0              </td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>р-н Пермский </td>
+            <td class="number">605,0</td>
+            <td class="number">465,0</td>
+            <td class="number">140,0              </td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>р-н Сивинский </td>
+            <td class="number">307,0</td>
+            <td class="number">236,0</td>
+            <td class="number">71,0              </td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>р-н Соликамский </td>
+            <td class="number">461,0</td>
+            <td class="number">354,0</td>
+            <td class="number">107,0           </td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>р-н Суксунский </td>
+            <td class="number">726,0</td>
+            <td class="number">558,0</td>
+            <td class="number">168,0            </td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>р-н Усольский </td>
+            <td class="number">5,5</td>
+            <td class="number">4,5</td>
+            <td class="number">1,0                   </td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>р-н Уинский </td>
+            <td class="number">98,0</td>
+            <td class="number">75,0</td>
+            <td class="number">23,0                  </td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>р-н Частинский </td>
+            <td class="number">1 234,0</td>
+            <td class="number">948,0</td>
+            <td class="number">286,0          </td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>р-н Чердынский </td>
+            <td class="number">185,0</td>
+            <td class="number">142,0</td>
+            <td class="number">43,0             </td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>р-н Чернушинский </td>
+            <td class="number">1 243,0</td>
+            <td class="number">955,0</td>
+            <td class="number">288,0        </td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>р-н Гайнский </td>
+            <td class="number">2 601,0</td>
+            <td class="number">1 998,0</td>
+            <td class="number">603,0          </td>
+        </tr>
+        <tr>
+            <td>35</td>
+            <td>р-н Косинский </td>
+            <td class="number">1 850,0</td>
+            <td class="number">1 421,0</td>
+            <td class="number">429,0         </td>
+        </tr>
+        <tr>
+            <td>36</td>
+            <td>р-н Кочевский </td>
+            <td class="number">2 333,0</td>
+            <td class="number">1 792,0</td>
+            <td class="number">541,0         </td>
+        </tr>
+        <tr>
+            <td>37</td>
+            <td>р-н Кудымкарский </td>
+            <td class="number">1 172,0</td>
+            <td class="number">900,0</td>
+            <td class="number">272,0        </td>
+        </tr>
+        <tr>
+            <td>38</td>
+            <td>р-н Юрлинский </td>
+            <td class="number">483,0</td>
+            <td class="number">371,0</td>
+            <td class="number">112,0             </td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>р-н Юсьвинский </td>
+            <td class="number">4 801,0</td>
+            <td class="number">3 688,0</td>
+            <td class="number">1 113,0      </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Нераспределенный остаток </td>
+            <td class="number">2 537,0</td>
+            <td class="number">1 949,0</td>
+            <td class="number">588,0</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Всего Пермский край </td>
+            <td class="number">50 742,1</td>
+            <td class="number">38 980,5</td>
+            <td class="number">11 761,6</td>
+        </tr>
+    </tbody>
+</table>

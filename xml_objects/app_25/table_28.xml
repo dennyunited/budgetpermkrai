@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="data_table" style="width: 900px">
+    <thead>
+        <tr>
+            <th>N п/п</th>
+            <th class="number">Наименование муниципальных образований</th>
+            <th class="number"> Сумма, тыс  рублей</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>г. Пермь </td>
+            <td class="number">15 812,4				</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>г. Березники </td>
+            <td class="number">947,0             </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>р-н Гремячинский </td>
+            <td class="number">1 229,8       </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>г. Губаха </td>
+            <td class="number">1 792,0              </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>г. Соликамск </td>
+            <td class="number">1 019,3           </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>р-н Чусовской </td>
+            <td class="number">1,8              </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>р-н Частинский </td>
+            <td class="number">646,1           </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Нераспределенный остаток </td>
+            <td class="number">531,9 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Всего Пермский край </td>
+            <td class="number">21 980,4    </td>
+        </tr>
+    </tbody>
+</table>

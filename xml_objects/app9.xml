@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div class="custom_table">
+    <table>
+        <thead>
+            <tr>
+                <th style="vertical-align: middle">Раздел</th>
+                <th style="vertical-align: middle">Подраздел</th>
+                <th style="vertical-align: middle">Наименование</th>
+                <th style="width: 100px; vertical-align: middle">2013 год</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>01</td>
+                <td>00</td>
+                <td>Общегосударственные вопросы</td>
+                <td class="rightcell">2 377 087,4</td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td>02</td>
+                <td>Функционирование высшего должностного лица субъекта Российской Федерации и муниципального образования</td>
+                <td class="rightcell">3 364,3</td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td>03</td>
+                <td>Функционирование законодательных (представительных) органов государственной власти и представительных органов муниципальных образований</td>
+                <td class="rightcell">102 199,7</td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td>04</td>
+                <td>Функционирование Правительства Российской Федерации, высших исполнительных органов государственной власти субъектов Российской Федерации, местных администраций</td>
+                <td class="rightcell">458 206,3</td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td>06</td>
+                <td>Обеспечение деятельности финансовых, налоговых и таможенных органов и органов финансового (финансово- бюджетного) надзора</td>
+                <td class="rightcell">117 914,5</td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td>07</td>
+                <td>Обеспечение проведения выборов и референдумов</td>
+                <td class="rightcell">10 354,8</td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td>11</td>
+                <td>Резервные фонды</td>
+                <td class="rightcell">77 439,5</td>
+            </tr>
+            <tr>
+                <td>01</td>
+                <td>13</td>
+                <td>Другие общегосударственные вопросы</td>
+                <td class="rightcell">1 607 608,3</td>
+            </tr>
+            <tr>
+                <td>03</td>
+                <td>00</td>
+                <td>Национальная безопасность и правоохранительная деятельность</td>
+                <td class="rightcell">148 361,4</td>
+            </tr>
+            <tr>
+                <td>03</td>
+                <td>09</td>
+                <td>Защита населения и территории от чрезвычайных ситуаций природного и техногенного характера, гражданская оборона</td>
+                <td class="rightcell">127 946,3</td>
+            </tr>
+            <tr>
+                <td>03</td>
+                <td>14</td>
+                <td>Другие вопросы в области национальной безопасности и правоохранительной деятельности</td>
+                <td class="rightcell">20 415,1</td>
+            </tr>
+            <tr>
+                <td>04</td>
+                <td>00</td>
+                <td>Национальная экономика</td>
+                <td class="rightcell">3 552 956,0</td>
+            </tr>
+            <tr>
+                <td>04</td>
+                <td>06</td>
+                <td>Водное хозяйство</td>
+                <td class="rightcell">3 258,0</td>
+            </tr>
+            <tr>
+                <td>04</td>
+                <td>07</td>
+                <td>Лесное хозяйство</td>
+                <td class="rightcell">37 305,8</td>
+            </tr>
+            <tr>
+                <td>04</td>
+                <td>08</td>
+                <td>Транспорт</td>
+                <td class="rightcell">774 418,6</td>
+            </tr>
+            <tr>
+                <td>04</td>
+                <td>09</td>
+                <td>Дорожное хозяйство (дорожные фонды)</td>
+                <td class="rightcell">2 574 339,3</td>
+            </tr>
+            <tr>
+                <td>04</td>
+                <td>12</td>
+                <td>Другие вопросы в области национальной экономики</td>
+                <td class="rightcell">163 634,4</td>
+            </tr>
+            <tr>
+                <td>05</td>
+                <td>00</td>
+                <td>Жилищно-коммунальное хозяйство</td>
+                <td class="rightcell">2 885 353,7</td>
+            </tr>
+            <tr>
+                <td>05</td>
+                <td>01</td>
+                <td>Жилищное хозяйство</td>
+                <td class="rightcell">1 111 572,2</td>
+            </tr>
+            <tr>
+                <td>05</td>
+                <td>02</td>
+                <td>Коммунальное хозяйство</td>
+                <td class="rightcell">391 106,3</td>
+            </tr>
+            <tr>
+                <td>05</td>
+                <td>03</td>
+                <td>Благоустройство</td>
+                <td class="rightcell">1 071 982,3</td>
+            </tr>
+            <tr>
+                <td>05</td>
+                <td>05</td>
+                <td>Другие вопросы в области жилищно-коммунального хозяйства</td>
+                <td class="rightcell">310 692,9</td>
+            </tr>
+            <tr>
+                <td>06</td>
+                <td>00</td>
+                <td>Охрана окружающей среды</td>
+                <td class="rightcell">45 464,2</td>
+            </tr>
+            <tr>
+                <td>06</td>
+                <td>03</td>
+                <td>Охрана объектов растительного и животного мира и среды их обитания</td>
+                <td class="rightcell">32 676,7</td>
+            </tr>
+            <tr>
+                <td>06</td>
+                <td>05</td>
+                <td>Другие вопросы в области охраны окружающей среды</td>
+                <td class="rightcell">12 787,5</td>
+            </tr>
+            <tr>
+                <td>07</td>
+                <td>00</td>
+                <td>Образование</td>
+                <td class="rightcell">10 326 219,2</td>
+            </tr>
+            <tr>
+                <td>07</td>
+                <td>01</td>
+                <td>Дошкольное образование</td>
+                <td class="rightcell">3 617 181,7</td>
+            </tr>
+            <tr>
+                <td>07</td>
+                <td>02</td>
+                <td>Общее образование</td>
+                <td class="rightcell">6 260 718,4</td>
+            </tr>
+            <tr>
+                <td>07</td>
+                <td>07</td>
+                <td>Молодежная политика и оздоровление детей</td>
+                <td class="rightcell">218 676,8</td>
+            </tr>
+            <tr>
+                <td>07</td>
+                <td>09</td>
+                <td>Другие вопросы в области образования</td>
+                <td class="rightcell">229 642,2</td>
+            </tr>
+            <tr>
+                <td>08</td>
+                <td>00</td>
+                <td>Культура и кинематография</td>
+                <td class="rightcell">806 399,8</td>
+            </tr>
+            <tr>
+                <td>08</td>
+                <td>01</td>
+                <td>Культура</td>
+                <td class="rightcell">791 119,8</td>
+            </tr>
+            <tr>
+                <td>08</td>
+                <td>04</td>
+                <td>Другие вопросы в области культуры, кинематографии</td>
+                <td class="rightcell">15 280,0</td>
+            </tr>
+            <tr>
+                <td>09</td>
+                <td>00</td>
+                <td>Здравоохранение</td>
+                <td class="rightcell">1 050 426,7</td>
+            </tr>
+            <tr>
+                <td>09</td>
+                <td>01</td>
+                <td>Стационарная медицинская помощь</td>
+                <td class="rightcell">134 736,5</td>
+            </tr>
+            <tr>
+                <td>09</td>
+                <td>02</td>
+                <td>Амбулаторная помощь</td>
+                <td class="rightcell">512 495,5</td>
+            </tr>
+            <tr>
+                <td>09</td>
+                <td>04</td>
+                <td>Скорая медицинская помощь</td>
+                <td class="rightcell">231 364,1</td>
+            </tr>
+            <tr>
+                <td>09</td>
+                <td>05</td>
+                <td>Санаторно-оздоровительная помощь</td>
+                <td class="rightcell">124 444,3</td>
+            </tr>
+            <tr>
+                <td>09</td>
+                <td>09</td>
+                <td>Другие вопросы в области здравоохранения</td>
+                <td class="rightcell">47 386,2</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>00</td>
+                <td>Социальная политика</td>
+                <td class="rightcell">2 545 588,9</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>01</td>
+                <td>Пенсионное обеспечение</td>
+                <td class="rightcell">38 914,8</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>03</td>
+                <td>Социальное обеспечение населения</td>
+                <td class="rightcell">2 046 591,0</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>04</td>
+                <td>Охрана семьи и детства</td>
+                <td class="rightcell">277 175,2</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>06</td>
+                <td>Другие вопросы в области социальной политики</td>
+                <td class="rightcell">182 907,9</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>00</td>
+                <td>Физическая культура и спорт</td>
+                <td class="rightcell">404 332,0</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>01</td>
+                <td>Физическая культура</td>
+                <td class="rightcell">59 929,0</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>02</td>
+                <td>Массовый спорт</td>
+                <td class="rightcell">334 879,1</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>05</td>
+                <td>Другие вопросы в области физической культуры и спорта</td>
+                <td class="rightcell">9 523,9</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>ВСЕГО</td>
+                <td class="rightcell">24 142 189,3</td>
+            </tr>
+        </tbody>        
+    </table>
+</div>
