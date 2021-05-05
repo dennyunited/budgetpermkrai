@@ -1,0 +1,13 @@
+.budget_earnings p {
+   color: #29A9DF;
+}
+.budget_counts > p {
+   font-size: 22px;
+   font-weight: bold;
+}
+.budget_costs p {
+   color: #B53948;
+}
+.unit_sl a {
+   width:300px;
+}

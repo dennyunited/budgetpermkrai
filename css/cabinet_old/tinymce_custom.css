@@ -1,0 +1,8 @@
+#insert, #cancel, #apply, .mceActionPanel .button, input.mceButton, .updateButton {
+    float: left;
+    margin-left: 2px;
+}
+
+.mceActionPanel {
+    width: 100%;
+}

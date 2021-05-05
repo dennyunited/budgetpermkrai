@@ -1,0 +1,83 @@
+/*
+����� ���������, ���� ���������� � �������� ������� ������:
+<link rel="stylesheet" type="text/css" href="http://get.prognoz.ru/cpdpi/minfin-audit_22.10.2013.css">
+*/
+/*fds*/
+/* ������� � ������� ���� */
+/* ���� ����� ����������� ��������� img/icon_drop_list.png */
+.icon_drop { background: url(../../img/cabinet/icon_drop_list.png) top left no-repeat; }
+.drop ul li.active .icon_drop { background-position: bottom left; }
+.drop ul li.open .icon_drop { background-position: top right; }
+.drop ul li.open.active .icon_drop { background-position: bottom right; }
+
+
+/* ���������� ������� (� ��� �����, ������ ��������������, �������� */
+/* � ������ ���� ������ ������-�����, ����� ����� ���������� ��������� */
+table.items { min-width:100% !important; border:1px solid #CCC !important; font-size:12px !important; font-family:Tahoma,sans-serif !important; }
+table.items thead {}
+table.items thead th { padding:7px !important; line-height:15px !important; border:1px solid #CCC !important; border-bottom:none !important; vertical-align:top !important; color: #333 !important;
+    background: #f2f2f2 !important; /* Old browsers */
+    background: -moz-linear-gradient(top,  #f2f2f2 0%, #ededed 100%) !important; /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f2f2), color-stop(100%,#ededed)) !important; /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #f2f2f2 0%,#ededed 100%) !important; /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #f2f2f2 0%,#ededed 100%) !important; /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #f2f2f2 0%,#ededed 100%) !important; /* IE10+ */
+    background: linear-gradient(to bottom,  #f2f2f2 0%,#ededed 100%) !important; /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#ededed',GradientType=0 ) !important; /* IE6-9 */
+}
+table.items thead th > a, table.items thead td > a { color: #333 !important; }
+.sort-link { color: #333 !important; }
+table.items thead td { padding:0 7px !important; border:1px solid #CCC !important; border-top:none !important; padding-bottom:7px !important; text-align:center !important;
+    background: #ececec !important; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ececec 0%, #e6e6e6 100%) !important; /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ececec), color-stop(100%,#e6e6e6)) !important; /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ececec 0%,#e6e6e6 100%) !important; /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ececec 0%,#e6e6e6 100%) !important; /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ececec 0%,#e6e6e6 100%) !important; /* IE10+ */
+    background: linear-gradient(to bottom,  #ececec 0%,#e6e6e6 100%) !important; /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ececec', endColorstr='#e6e6e6',GradientType=0 ) !important; /* IE6-9 */
+}
+table.items thead td input[type="text"] { height:24px !important; line-height:14px !important; padding:4px !important; width:80% !important; display:inline-block !important; }
+table.items thead td input[type="button"] { display: inline-block !important; vertical-align: top !important; position: relative !important; top: -5px !important; color: #333 !important; font-weight: normal !important;font-size: 12px !important; }
+table.items tbody {}
+table.items tbody td { padding:10px 7px !important; border:1px solid #CCC !important; }
+/*table.items tbody tr:nth-child(odd) td { background:#F8F8F8 !important; }*/
+
+
+/* ��������� ��������� ������ ���� */
+/* ����� ������� ���� ��������, ���� �������� � ���� ����� "active" */
+.hierarchy > div.drop.active > a, .hierarchy > a.active { box-shadow: inset 0 7px 22px -7px rgba(0,0,0,0.5) !important; }
+
+
+/* ���������� ������ */
+/* ���������� ������� ������-����� � .required */
+/* start 05/12/2013 */
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-draggable.ui-resizable.ui-dialog-buttons { padding: 0 !important; border:none !important; border-radius: 6px !important; box-shadow: 0 0 8px rgba(0,0,0,0.6) !important; overflow:hidden; }
+.ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix { height: 40px !important; border: 0 !important; border-radius: 0 !important; box-shadow:0 1px 0 #868686 inset !important; padding:0;
+    background: #676767; /* Old browsers */
+    background: -moz-linear-gradient(top,  #676767 0%, #434343 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#676767), color-stop(100%,#434343)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #676767 0%,#434343 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #676767 0%,#434343 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #676767 0%,#434343 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #676767 0%,#434343 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#676767', endColorstr='#434343',GradientType=0 ); /* IE6-9 */
+}
+.ui-dialog-title { font-size:15px; color:#fff; text-shadow:0 -1px 0 #000; font-weight:normal; line-height:20px; padding:10px 20px; margin:0 !important; font-family:'PT Sans'; }
+.ui-dialog-titlebar-close { background:url(../../img/cabinet/dialog_cross.png) center center no-repeat !important; margin-right:0 !important; }
+.ui-dialog-content.ui-widget-content { padding:0; margin:0; }
+.ui-dialog-titlebar-close.ui-corner-all { margin-right: 14px; }
+.ui-dialog-buttonpane.ui-widget-content.ui-helper-clearfix { background:#DDD !important; border-top: 1px solid #B3B3B3 !important; padding:11px 0; margin:0; }
+.ui-dialog-buttonset { padding:0 23px; margin:0; }
+.ui-dialog-buttonset button { margin:0 !important; }
+/* end 05/12/2013 */
+
+
+.note { background: #f6e6e6 !important; border: 1px solid #e6d6d6 !important; padding: 10px !important; color: #555 !important; margin: 0 0 20px 0 !important; }
+.note > .required { font-size: 14px !important; color: #d00 !important; font-weight: bold !important; }
+
+.row > b, .row > label { display: block !important; margin-top: 5px !important; font-weight: normal !important; }
+
+.ui-dialog-titlebar .ui-dialog-titlebar-close .ui-icon.ui-icon-closethick {
+    background: none;
+}

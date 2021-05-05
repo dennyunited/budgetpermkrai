@@ -1,0 +1,24 @@
+.crumbs li:after {
+    top: 0;
+}
+.menu_ITM_2 {
+    width: 154px;
+}
+.menu_ITM_3 {
+    width: 172px;
+}
+.menu_ITM_4 {
+    width: 113px;
+}
+.menu_ITM_5 {
+    width: 145px;
+}
+.menu_ITM_6 {
+    width: 122px;
+}
+header .logo {
+    font-size: 32px; font-family: cuprumffuregular; color: #333;
+}
+.search input[type="submit"] {
+    height: 38px;
+}
